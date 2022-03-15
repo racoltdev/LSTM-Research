@@ -1,0 +1,590 @@
+Supreme Judicial Court for the Commonwealth    Full Court:   SJC-12310      Filed: 10/2/2020 4:47 PM
+
+COMMONWEALTH OF MASSACHUSETTS 
+
+SUPREME JUDICIAL COURT 
+
+HAMPSHIRE COUNTY 
+
+No. SJC-12310 
+
+COMMONWEALTH OF MASSACHUSETTS, 
+
+Appellee 
+
+v. 
+
+CARA RINTALA, 
+
+Appellant 
+
+______________________________________________________ 
+
+BRIEF FOR THE DEFENDANT ON APPEAL FROM THE HAMPSHIRE DIVISION 
+______________________________________________________ 
+
+OF THE SUPERIOR COURT DEPARTMENT 
+
+Chauncey Wood 
+BBO No. 600354 
+Wood & Nathanson LLP 
+50 Congress Street, 
+Suite 600 
+Boston, MA 02110 
+(617) 248-1806
+cwood@woodnathanson.com
+  ATTORNEY FOR DEFENDANT 
+  CARA RINTALA 
+On the brief: 
+Melissa Ramos 
+BBO No. 703841 
+
+October 2, 2020 
+
+. 
+
+was 
+
+unreliable 
+
+and 
+
+TABLE OF CONTENTS 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+ TABLE OF AUTHORITIES 
+ 
+ISSUES PRESENTED 
+. 
+ 
+. 
+INTRODUCTION  . 
+ 
+STATEMENT OF THE CASE 
+ 
+STATEMENT OF FACTS  . 
+ 
+SUMMARY OF ARGUMENT . 
+ 
+ARGUMENT  . 
+. 
+ 
+I. 
+
+.  4 
+. 10 
+. 11 
+. 14 
+. 15 
+. 28 
+. 31 
+The  medical  examiner’s  opinion  that  Ann  died  at 
+least six hours before she was discovered by first 
+responders 
+therefore 
+inadmissible  because  it  was  based  solely  on 
+subjective observations by first responders with no 
+training  in  death  scene  investigation  that  Ann’s 
+skin  was  “cold”  and  her  body  was  “stiff”  and 
+speculation  that  Ann  did  not  struggle  with  her 
+attacker despite undisputed physical evidence that 
+she did  . 
+.  31 
+ 
+II.  The defendant was entitled to a required finding of 
+not guilty where the Commonwealth’s case depended 
+on  expert  opinions  about  the  decedent’s  time  of 
+death  that  failed  to  account  for  uncontroverted 
+evidence  that  the  decedent  was  in  a  violent 
+struggle  immediately  before  her  death,  when  the 
+defendant was not present 
+.  47 
+ 
+III.  The admission of the unrebutted opinion testimony 
+of  the  Commonwealth’s  “paint  expert”  that  the 
+Defendant  intentionally  poured  paint  on  the 
+decedent’s body immediately before first responders 
+arrived  created  a  substantial  likelihood  of 
+miscarriage  of  justice.  His  opinions  were 
+unreliable  because  they  were  based  on  flawed 
+experiments  which  he  was  unqualified  to  design, 
+naked assumptions or both 
+.  51 
+ 
+IV.  The admission of disputed and remote evidence of 
+domestic  violence  and  marital  strife  as  motive 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+ 
+
+2 
+
+V. 
+
+. 
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+despite  substantial  recent  reconciliation  was 
+reversible error 
+.  85 
+ 
+The trial judge’s sua sponte decision to instruct 
+the jury that they could consider evidence of the 
+defendant’s consciousness of guilt was reversible 
+error  where  the  defense  did  not  focus  on  that 
+evidence  in  closing  and  had  no  opportunity  to 
+respond  . 
+.  91 
+ 
+VI.  The prosecutor’s closing argument, which misstated 
+facts and attacked defense counsel, created  
+a  substantial  likelihood  of  a  miscarriage  of 
+justice  . 
+.  98 
+ 
+to due process when she was subjected to a third 
+. 
+trial 
+. 103 
+ 
+. 105 
+CONCLUSION 
+. 
+ 
+CERTIFICATE OF COMPLIANCE 
+. 106 
+ 
+. 107 
+CERTIFICATE OF SERVICE  . 
+ 
+ADDENDUM  . 
+. 
+. 108 
+
+VII.  Cara was deprived of her constitutional right  
+
+. 
+. 
+. 
+. 
+. 
+
+. 
+
+. 
+. 
+. 
+. 
+. 
+
+. 
+
+. 
+. 
+. 
+. 
+. 
+
+. 
+
+. 
+. 
+. 
+. 
+. 
+
+.    . 
+
+. 
+. 
+
+. 
+
+. 
+
+ 
+
+3 
+
+TABLE OF AUTHORITIES 
+
+Cases 
+Boice-Perrine Co. v. Kelley,  
+  243 Mass. 327 (1923) .............................. 81 
+Case of Canavan,  
+  432 Mass. 304 (2000) ...................... 36, 57, 84 
+Commonwealth v. Abbott,  
+  130 Mass. 472 (1881) .............................. 89 
+Commonwealth v. Almeida,  
+  42 Mass. App. Ct. 607 (1997) ...................... 88 
+Commonwealth v. Awad,  
+  47 Mass. App. Ct. 139 (1999) ..................... 103 
+Commonwealth v. Barbosa,  
+  457 Mass. 773 (2010) .......................... passim 
+Commonwealth v. Bartolini,  
+  299 Mass. 503 (1938) .............................. 90 
+Commonwealth v. Beaudry,  
+  445 Mass. 577 (2005) ............................. 102 
+Commonwealth v. Beldotti,  
+  409 Mass. 553 (1991) .............................. 89 
+Commonwealth v. Bennett,  
+  424 Mass. 64 (1997) ............................... 37 
+Commonwealth v. Brescia,  
+  471 Mass. 381 (2015) .............................. 55 
+Commonwealth v. Britt,  
+  465 Mass. 87 (2013) ............................... 39 
+Commonwealth v. Brown,  
+  414 Mass. 123  (1993) ............................. 95 
+Commonwealth v. Burke,  
+  339 Mass. 521 (1959) .............................. 90 
+Commonwealth v. Butler,  
+  445 Mass. 568 (2005) .............................. 87 
+ 
+
+ 
+
+4 
+
+Commonwealth v. Camblin,  
+  471 Mass. 639 (2015) .............................. 56 
+Commonwealth v. Camblin,  
+  478 Mass. 469 (2017) ...................... 37, 38, 84 
+Commonwealth v. Celester,  
+  473 Mass. 553 (2016) .............................. 82 
+Commonwealth v. Connolly,  
+  91 Mass. App. Ct. 580 (2017) ...................... 78 
+Commonwealth v. Coren,  
+  437 Mass. 723 (2002) ......................... 99, 102 
+Commonwealth v. Cormier,  
+  427 Mass. 446 (1998) .............................. 89 
+Commonwealth v. Cousin,  
+  484 Mass. 1042 (2020) ............................. 83 
+Commonwealth v. Cyr,  
+  433 Mass. 617 (2001) .............................. 99 
+Commonwealth v. Degro,  
+  432 Mass. 319  (2000) ............................. 96 
+Commonwealth v. Diantonio,  
+  94 Mass. App. Ct. 1122 (2019) ................. 97, 98 
+Commonwealth v. DiCicco,  
+  470 Mass. 720 (2015) .............................. 57 
+Commonwealth v. Epps,  
+  474 Mass. 743 (2016) .......................... 55, 76 
+Commonwealth v. Evans,  
+  469 Mass. 834 (2014) .............................. 93 
+Commonwealth v. Franceschi,  
+  94 Mass. App. Ct. 602 (2018) .................. 74, 75 
+Commonwealth v. Frangipane,  
+  433 Mass. 527 (2001) .......................... 60, 77 
+Commonwealth v. Frisino,  
+  21 Mass. App. Ct. 551 (1986) ...................... 81 
+Commonwealth v. Green,  
+  27 Mass. App. Ct. 762 (1989) ...................... 96 
+
+ 
+
+5 
+
+Commonwealth v. Groce,  
+  25 Mass. App. Ct. 327 (1988) ...................... 96 
+Commonwealth v. Guinan,  
+  86 Mass. App. Ct. 445 (2014) ...................... 60 
+Commonwealth v. Helfant,  
+  398 Mass. 214 (1986) .............................. 85 
+Commonwealth v. Jenkins,  
+  458 Mass. 791 (2011) ............................. 103 
+Commonwealth v. Johnston,  
+  467 Mass. 674 (2014) ............................. 101 
+Commonwealth v. Kelly,  
+  470 Mass. 682 (2015) .......................... 93, 98 
+Commonwealth v. Kincaid,  
+  444 Mass. 381 (2005) .............................. 80 
+Commonwealth v. Lanigan,  
+  419 Mass. 15 (1994) ........................... passim 
+Commonwealth v. Lopez,  
+  484 Mass. 211 (2020) ...................... 48, 49, 50 
+Commonwealth v. Mazza,  
+  399 Mass. 395 (1987) .............................. 50 
+Commonwealth v. McGuane,  
+  77 Mass. App. Ct. 371 (2010) ...................... 86 
+Commonwealth v. McNickles,  
+  434 Mass. 839 (2001) .............................. 36 
+Commonwealth v. Mills,  
+  47 Mass. App. Ct. 500 (1999) ...................... 90 
+Commonwealth v. Moore,  
+  480 Mass. 799 (2018) ............................. 101 
+Commonwealth v. Nom,  
+  426 Mass. 152 (1997) .............................. 89 
+Commonwealth v. O’Neil,  
+  51 Mass. App. Ct. 170 (2001) ...................... 81 
+Commonwealth v. Patterson,  
+  445 Mass. 626 (2005) .......................... 40, 41 
+
+ 
+
+6 
+
+Commonwealth v. Polk,  
+  462 Mass. 23 (2012) ............................... 49 
+Commonwealth v. Rodriguez,  
+  456 Mass. 578 (2010) .............................. 50 
+Commonwealth v. Rossi,  
+  19 Mass. App. Ct. 257 (1985) ...................... 81 
+Commonwealth v. Salemme,  
+  395 Mass. 594 (1985) .............................. 50 
+Commonwealth v. Sands,  
+  424 Mass. 184 (1997) .............................. 47 
+Commonwealth v. Sapoznik,  
+  28 Mass. App. Ct. 236 (1990) ...................... 86 
+Commonwealth v. Silva-Santiago,  
+  453 Mass. 782 (2009) ........................ 101, 102 
+Commonwealth v. Simmons,  
+  419 Mass. 426 (1995) .............................. 94 
+Commonwealth v. Solis,  
+  407 Mass. 398 (1990) .............................. 80 
+Commonwealth v. Stuckich,  
+  450 Mass. 449 (2008) .............................. 98 
+Commonwealth v. Tanner,  
+  45 Mass. App. Ct. 576 (1998) .................. 77, 78 
+Commonwealth v. Thomas,  
+  21 Mass. App. Ct. 183 (1985) ...................... 96 
+Commonwealth v. Velez,  
+  479 Mass. 506 (2018) .............................. 82 
+Commonwealth v. Vick,  
+  454 Mass. 418 (2009) .......................... 93, 95 
+Commonwealth v. Williams,  
+  68 Mass. App. Ct. 287 (2007) ...................... 82 
+Commonwealth v. Wright,  
+  411 Mass. 678, 682 (1992) ..................... 54, 80 
+Daubert v. Merrell Dow Pharmaceuticals, Inc.,  
+  509 U.S. 579 (1993) ............................... 37 
+
+ 
+
+7 
+
+Green v. United States,  
+  355 U.S. 184 (1957) .............................. 104 
+In re. Winship,  
+  397 U.S. 358 (1970) ............................... 47 
+Jackson v. Virginia,  
+  443 U.S. 307 (1979) ............................... 47 
+Kumho Tire Co. v. Carmichael,  
+  526 U.S. 137 (1999) ............................... 39 
+L.L. v. Commonwealth,  
+  470 Mass. 169 (2014) .............................. 36 
+Ouber v. Guarino,  
+  293 F.3d 19 (1st Cir. 2002) ................... 77, 98 
+Peterson v. Foley,  
+  77 Mass. App. Ct. 348 (2010) .................. 60, 72 
+Read v. Mt. Tom Ski Area,  
+  37 Mass. App. Ct. 901 (1994) .............. 58, 61, 75 
+Simon v. Solomon,  
+  385 Mass. 91 (1982) ............................... 77 
+State v. Poteat,  
+  711 S.E.2d 531 (N.C. Ct. App. 2011) ............... 37 
+Strickland v. Washington,  
+  466 U.S. 668 (1984) ............................... 55 
+United States v. Freeman,  
+  730 F.3d 590 (6th Cir. 2013) ...................... 78 
+United States v. Mundy,  
+  539 F.3d 154 (2d Cir. 2008) ....................... 96 
+United States. v. Cronic,  
+  466 U.S. 648 (1984) ............................... 81 
+Statutes 
+G.L. c. 265, § 1 .................................... 14 
+G.L. c. 278, § 33E ......................... 54, 98, 101 
+ 
+
+ 
+
+8 
+
+Rules 
+Mass. G. Evid. § 702 ............................ passim 
+Mass. R. Crim. P. 24 ................................ 96 
+Constitutional Provisions 
+Mass. Const. art 12 ................................. 47 
+U.S. Const., Amend. XIV ............................. 47 
+Secondary Sources 
+DiMaio & DiMaio, Forensic Pathology, ( 
+  2nd ed. 2001) .............................. 38, 39, 46 
+ 
+Spitz & Fisher, Medical Legal Investigation of Death: 
+Guidelines for the Application of Pathology to Crime 
+Investigation, (4th ed. 2005) (Medical Legal 
+Investigation of Death) ........................... 39 
+
+ 
+
+9 
+
+ISSUES PRESENTED 
+
+ 
+2. 
+
+ 
+3. 
+
+1. 
+
+ 
+Whether the medical examiner’s opinion as to 
+the decedent’s time of death should have been excluded 
+where it was based solely on subjective observations by 
+untrained  first  responders  that  Ann’s  skin  was  “cold” 
+and her body was “stiff” and speculation that she did 
+not  struggle  with  her  attacker  despite  undisputed 
+evidence that she did.  
+
+Whether  the  defendant  was  entitled  to  a 
+required finding of not guilty where the Commonwealth’s 
+case  depended  on  expert  opinions  about  time  of  death 
+that ignored uncontroverted evidence that the decedent 
+was in a violent struggle immediately before her death, 
+supporting a reasonable inference that she was killed at 
+a time when the defendant was not present. 
+
+opinion 
+
+testimony 
+
+from 
+
+Whether 
+
+the 
+Commonwealth’s  “paint  expert”  that  the  Defendant 
+intentionally  poured  paint  on  the  decedent’s  body 
+immediately  before  first  responders  arrived  created  a 
+substantial  likelihood  of  a  miscarriage  of  justice, 
+given  that  his  opinions  were  unreliable  because  they 
+were  based  on  flawed  experiments  which  he  was 
+unqualified to design, naked assumptions or both. 
+ 
+Whether the admission of disputed and remote 
+4. 
+evidence  of  domestic  violence  and  marital  strife  as 
+evidence 
+recent 
+motive 
+reconciliation was reversible error. 
+ 
+Whether the trial judge’s sua sponte decision 
+to instruct the jury that they could consider evidence 
+of the defendant’s consciousness of guilt was reversible 
+error where the defense did not focus on that evidence 
+in closing and had no opportunity to respond. 
+ 
+Whether  the  prosecutor’s  closing  argument 
+created  a  substantial  likelihood  of  a  miscarriage  of 
+justice where he materially misstated evidence. 
+ 
+constitutional right to due process in a third trial. 
+
+Whether  the  defendant  was  deprived  of  her 
+
+substantial 
+
+despite 
+
+5. 
+
+6. 
+
+7. 
+ 
+
+ 
+
+ 
+10 
+
+ 
+
+

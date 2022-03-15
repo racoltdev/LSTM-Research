@@ -1,0 +1,2149 @@
+Supreme Judicial Court for the Commonwealth    Full Court:   SJC-12989      Filed: 7/31/2020 12:37 PM - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+No. SJC-12989
+
+Commonwealth of Massachusetts
+
+Supreme Judicial Court
+
+COMMONWEALTH
+
+vs.
+
+ABDIRAHMAN YUSUF
+
+ON APPEAL FROM A JUDGMENT OF THE
+SUFFOLK COUNTY SUPERIOR COURT
+
+AMENDED BRIEF FOR DEFENDANT-APPELLANT ABDIRAHMAN YUSUF
+
+PATRICK LEVIN
+BBO #682927
+ATTORNEY FOR ABDIRAHMAN YUSUF
+COMMITTEE FOR PUBLIC COUNSEL SERVICES
+Public Defender Division
+44 Bromfield Street, Suite 301
+Boston, Massachusetts 02108
+(617) 482-6212
+plevin@publiccounsel.net
+
+July 31, 2020
+
+1
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES.....................................................................................4
+ISSUE PRESENTED................................................................................................ 9
+STATEMENT OF THE CASE.................................................................................. 9
+STATEMENT OF FACTS.......................................................................................10
+SUMMARY OF THE ARGUMENT.........................................................................13
+ARGUMENT
+Abdie’s motion to suppress should have been allowed be-
+cause the warrantless creation, retention, and inspection
+of video footage of the inside of his bedroom violated his
+constitutional rights ...................................................................................15
+A. Both the filming of the inside of Abdie’s house and the later in-
+spection of the footage by the Gang Unit were searches requir-
+ing constitutional justification. ................................................................17
+1. The bodycam footage is “information” obtained through an
+
+“unlicensed physical intrusion” into Abdie’s home..........................17
+
+2. The creation, indefinite retention, and later review of a vid-
+eo recording of the inside of a person’s home intrude on that
+person’s reasonable expectation of privacy......................................18
+a. A police officer videotaping the inside of someone’s home
+is a much more significant intrusion on that person’s
+privacy than the officer’s mere presence.....................................18
+
+b. The subsequent inspection of the footage by other offic-
+ers for purposes unrelated to its initial creation was a
+new and separate intrusion on Abdie’s reasonable ex-
+pectation of privacy in his home..................................................23
+
+B. The recording of the inside of the Yusufs’ apartment was un-
+constitutional because it exceeded the scope of the permission
+granted to police to enter the home..........................................................25
+
+C. The filming was not justified by the other exceptions to the
+
+warrant requirement alluded to by the motion judge. ........................28
+
+2
+
+D. The public policy concerns animating the motion judge’s con-
+clusion that the recording was lawful cannot justify pro-
+grammatic suspicionless filming of the insides of people’s
+homes for general law enforcement purposes.......................................30
+CONCLUSION.......................................................................................................35
+ADDENDUM........................................................................................................ 36
+CERTIFICATE OF COMPLIANCE........................................................................ 59
+CERTIFICATE OF SERVICE ................................................................................ 59
+
+3
+
+TABLE OF AUTHORITIES
+
+CASES
+
+Birchfield v. North Dakota,
+
+136 S. Ct. 2160 (2016).................................................................................... 23
+
+California v. Ciraolo,
+
+476 U.S. 207 (1986)..................................................................................18, 22
+
+Camara v. Municipal Court of San Francisco,
+
+387 U.S. 523 (1967) ............................................................................20, 24, 35
+
+Carpenter v. United States,
+
+138 S. Ct. 2206 (2018) ................................................................. 19, 20, 33, 35
+
+Chandler v. Miller,
+
+520 U.S. 305 (1997) .......................................................................................34
+
+Colorado v. Bertine,
+
+479 U.S. 367 (1987).........................................................................................33
+
+Commonwealth v. Almonor,
+
+482 Mass. 35 (2019)..................................................................................21, 25
+
+Commonwealth v. Arias,
+
+481 Mass. 604 (2019)....................................................................................29
+
+Commonwealth v. Arzola,
+
+470 Mass. 809 (2015).................................................................................... 23
+
+Commonwealth v. Augello,
+71 Mass. App. Ct. 105,
+S.C., 452 Mass. 1021 (2008)......................................................................... 27
+
+Commonwealth v. Balicki,
+
+436 Mass. 1 (2002).............................................................................19, 21, 24
+
+Commonwealth v. Bass,
+
+24 Mass. App. Ct. 972 (1987)......................................................................30
+
+Commonwealth v. Buccella,
+
+434 Mass. 473 (2001)....................................................................................34
+
+Commonwealth v. Cantalupo,
+
+380 Mass. 173 (1980).....................................................................................26
+
+Commonwealth v. Clarke,
+
+461 Mass. 336 (2012)......................................................................................16
+
+4
+
+Commonwealth v. DeJesus,
+
+439 Mass. 616 (2003).....................................................................................15
+
+Commonwealth v. Eason,
+
+427 Mass. 595 (1998)..................................................................................... 22
+
+Commonwealth v. Entwistle,
+
+463 Mass. 205 (2012) ....................................................................................30
+
+Commonwealth v. Escalera,
+
+462 Mass. 636 (2012).....................................................................................15
+
+Commonwealth v. Feliz,
+
+481 Mass. 689 (2019).................................................................................... 32
+
+Commonwealth v. Gomes,
+
+470 Mass. 352 (2015)......................................................................................21
+
+Commonwealth v. Gray,
+
+465 Mass. 330 (2013) ..............................................................................27, 30
+
+Commonwealth v. Johnson,
+
+481 Mass. 710 (2019).............................................................................passim
+
+Commonwealth v. Kaeppeler,
+
+473 Mass. 396 (2015)...............................................................................25, 30
+
+Commonwealth v. Leslie,
+
+477 Mass. 48 (2017)........................................................................................17
+
+Commonwealth v. Lopez,
+
+458 Mass. 383 (2010)....................................................................................28
+
+Commonwealth v. McCarthy,
+
+484 Mass. 493 (2020)..................................................................19, 20, 21, 23
+
+Commonwealth v. Norman,
+
+484 Mass. 330 (2020)................................................................................... 23
+
+Commonwealth v. Ortiz,
+
+478 Mass. 820 (2018)....................................................................................26
+
+Commonwealth v. Panetti,
+
+406 Mass. 230 (1989).................................................................................... 22
+
+Commonwealth v. Porter P.,
+
+456 Mass. 254 (2010)......................................................................... 17, 18, 27
+
+Commonwealth v. Sondrini,
+
+48 Mass. App. Ct. 704 (2000)....................................................................30
+
+5
+
+Commonwealth v. Suters,
+
+90 Mass. App. Ct. 449 (2016).....................................................................30
+
+Commonwealth v. Thomas,
+
+67 Mass. App. Ct. 738 (2006)..................................................................... 27
+
+Commonwealth v. Tremblay,
+
+480 Mass. 645 (2018).....................................................................................16
+
+Commonwealth v. Tuschall,
+
+476 Mass. 581 (2017)..................................................................................... 25
+
+Dow Chemical Co. v. United States,
+
+476 U.S. 227 (1986)........................................................................................ 22
+
+Ferguson v. Charleston,
+
+532 U.S. 67 (2001).................................................................................... 33, 34
+
+Florida v. Jardines,
+
+569 U.S. 1 (2013)....................................................................................passim
+
+Florida v. Jimeno,
+
+500 U.S. 248 (1991).......................................................................................26
+
+Florida v. Riley,
+
+488 U.S. 445 (1989)....................................................................................... 22
+
+Florida v. Wells,
+
+495 U.S. 1 (1990).............................................................................................33
+
+Georgia v. Randolph,
+
+547 U.S. 103 (2006)...........................................................................25, 28, 29
+
+Griffin v. Wisconsin,
+
+483 U.S. 868 (1987)........................................................................................33
+
+Johnson v. United States,
+
+333 U.S. 10 (1948)..........................................................................................20
+
+Jones v. United States,
+
+357 U.S. 493 (1958)........................................................................................ 25
+
+Kyllo v. United States,
+
+533 U.S. 27 (2001)..................................................................................passim
+
+Landry v. Attorney General,
+
+429 Mass. 336 (1999) ....................................................................................24
+
+Maryland v. Garrison,
+
+480 U.S. 79 (1987).........................................................................................29
+
+6
+
+Maryland v. King,
+
+569 U.S. 435 (2013)........................................................................................ 23
+
+McDonald v. United States,
+
+335 U.S. 451 (1948) ........................................................................................ 32
+
+Mincey v. Arizona,
+
+437 U.S. 385 (1978)........................................................................................29
+
+New Jersey v. T.L.O.,
+
+469 U.S. 325 (1985).........................................................................................33
+
+Patrolmen’s Benevolent Ass’n of N.Y. v. De Blasio,
+
+171 A.D.3d 636 (2019) ....................................................................................31
+
+Riley v. California,
+
+573 U.S. 373 (2014) ........................................................................................ 25
+
+United States v. Johnson,
+
+314 F. Supp. 3d 248 (D.D.C. 2018).............................................................21
+
+United States v. Jones,
+
+565 U.S. 400 (2012).................................................................................. 17, 21
+
+United States v. Karo,
+
+468 U.S. 705 (1984)........................................................................... 18, 24, 32
+
+Vernonia School Dist. 47J v. Acton,
+
+515 U.S. 646 (1995).................................................................................. 33, 34
+
+Wilson v. Layne,
+
+526 U.S. 603 (1999)..................................................................................29, 31
+
+STATUTES
+
+G.L. c.269, §10......................................................................................................9
+G.L. c.269, §10G...................................................................................................9
+
+CONSTITUTIONAL PROVISIONS
+
+UNITED STATES CONSTITUTION
+
+Fourth Amendment...........................................................................passim
+Fourteenth Amendment .................................................................... 20, 21
+
+MASSACHUSETTS DECLARATION OF RIGHTS
+
+Article 14................................................................................................passim
+
+7
+
+OTHER AUTHORITY
+
+Samuel D. Warren & Louis D. Brandeis,
+
+The Right to Privacy,
+4 HARV. L. REV. 193 (1890)...........................................................................21
+
+8
+
+ISSUE PRESENTED
+
+Whether the Fourth Amendment to the United States Constitu-
+tion and article 14 of the Massachusetts Declaration of Rights forbid
+police from videotaping the inside of every home to which they are
+admitted for any purpose, archiving and preserving those record-
+ings forever, and reviewing them without a warrant any time any
+officer believes they may be pertinent to any ongoing investigation.
+
+STATEMENT OF THE CASE
+
+On June 28, 2017, a Suffolk County grand jury returned indict-
+ment #17-455, charging Abdirahman Yusuf with unlawful possession
+of a firearm, G.L. c.269, §10(h), having previously been convicted of a
+violent crime, see G.L. c.269, §10G; possession of a large-capacity
+firearm, G.L. c.269, §10(m); and unlawful possession of ammunition,
+G.L. c.269, §10(h) (R18–21).1 Mr. Yusuf was arraigned on July 20, 2017,
+and pleaded not guilty (R3).
+
+Mr. Yusuf filed a motion to suppress the evidence against him
+on July 12, 2018 (R22). An evidentiary hearing was held on Septem-
+ber 5, 2018, before Judge Michael Ricciuti (R9). On September 24, the
+motion judge issued a written memorandum and order denying the
+motion (R39/A37).
+
+On May 7, 2019, Mr. Yusuf waived his right to a jury trial in a
+colloquy with Judge Robert Tochka (R13). The trial judge heard evi-
+dence on May 7 and May 17, and took the case under advisement (R
+13–14). On May 23, 2019, he found Mr. Yusuf guilty of unlawfully
+possessing a firearm and ammunition, but not guilty of possessing a
+
+1 “R” refers to the record appendix, “A” to this brief’s addendum,
+“Tr” to the trial transcript, and “M” to the motion hearing transcript.
+
+9
+
+large-capacity firearm (Tr.3/3). No evidence was presented on the
+sentencing enhancement, and a not guilty finding entered as to that
+portion of the indictment (Tr.3/9). The judge sentenced Mr. Yusuf
+on count 1 to a term of two years in the house of correction, with a
+year of probation to follow on count 3 (Tr.3/8). Mr. Yusuf’s timely
+notice of appeal was docketed on June 3, 2019 (R16,60). Following
+the allowance of Mr. Yusuf’s application for direct appellate review,
+the matter was entered in this Court on July 23, 2020.
+
+STATEMENT OF FACTS
+
+Two brothers, Abdie and Yusuf Yusuf,2 were charged with fire-
+arm offenses following the execution of a search warrant at the
+Dorchester apartment where they lived with their parents and the
+rest of their family. The warrant was the culmination of an investi-
+gation of Abdie by the Boston Police Department’s Youth Violence
+Strike Force, also known as the Gang Unit (R40/A38). Officers in
+that unit believed that Abdie regularly possessed firearms, based in
+part on their monitoring of social media. In particular, beginning in
+June of 2016, police regularly viewed and recorded videos posted to
+a Snapchat account with the username “dee.fazo,” several of which
+appeared to show Abdie handling firearms (R41/A39). Abdie was
+stopped and frisked on a number of occasions during that
+timeframe, but was never found to be carrying a gun (R44/A42).
+
+In late 2016 or early 2017, Gang Unit Detective Brian Ball sent a
+“friend” request to the “dee.fazo” Snapchat account using an under-
+cover Snapchat account (R41/A39). The request was accepted, and
+
+2 For ease of reference, this brief adopts the motion judge’s use in his
+order of the brothers’ first names to distinguish between them.
+
+10
+
+Ball began monitoring the account and preserving videos from it by
+playing them on one cellphone and recording them with another (R
+41/A39). Several of the videos Ball preserved included images of Ab-
+die with what appeared to be firearms (R42/A40). On February 25,
+2017, Ball viewed one such video showing Abdie holding a gun in
+what looked like a bedroom, with a “distinctive curtain” behind him
+(R42/A40). Based on the video’s appearance in the Snapchat inter-
+face and his experience with the application, Ball believed that the
+video had been recorded in the past 24 hours (R42/A40).
+
+Detective Ball then attempted to develop probable cause as to
+the location where Abdie possessed the gun by viewing footage cap-
+tured on February 10, 2017, by another police officer’s body-worn
+camera when that officer responded to a call for a domestic disturb-
+ance at the Yusufs’ apartment at 1 Ames Street in Dorchester (R43/A
+41). A body-worn camera looks like a black box with a lens in the
+middle, and is worn in the center of a police officer’s chest (M.46).
+When it is actively recording, a red light on it illuminates and it pe-
+riodically emits an audible beep (R43/A41). Officers who are as-
+signed bodycams upload their footage to a Boston Police Depart-
+ment hard drive at the end of each shift (M.51). The footage is then
+saved “forever,” and can be “accessed if it’s requested as a result of
+an ongoing investigation” (M.108,110).
+
+Ball testified that he was not present when the bodycam footage
+was captured, but had been informed about its existence by Officer
+Brian Delahanty, who had burned it from a Boston Police Depart-
+ment hard drive onto a DVD that he kept in his desk, presumably
+after submitting such a request (M.43,45). Officer Delahanty did not
+
+11
+
+testify at the motion hearing, but Gang Unit Sergeant Detective Ste-
+ven Broderick explained that as part of their investigation of Abdie,
+the unit “reviewed … calls for service for [his] address,” and noticed
+that there had been a call from that address and that one of the re-
+sponding officers was equipped with a body-worn camera (M.111).
+Detective Ball testified that when he heard that footage existed
+showing the inside of Abdie’s home, he immediately knew it “could
+be relevant at some point to a possible search warrant” (M.53).
+
+The bodycam footage was provided to the motion judge at the
+hearing (M.22), and a copy has been filed for this Court’s review. It
+shows the officer wearing the camera arriving at 1 Ames Street to
+find other officers already present, speaking with two women on the
+first floor. One of the women appears to be Abdie’s sister. She tells
+police that Abdie and his girlfriend have been “doing too much ar-
+guing,” that she wants Abdie’s girlfriend to leave, and that “they said
+they’re getting dressed.” The officer then goes up the stairs into the
+hallway outside Abdie’s bedroom. Abdie is standing in the doorway
+to his bedroom, and his girlfriend can be seen in the bedroom zip-
+ping up the outer layer of her clothing. When the officer asks what’s
+happening, Abdie reiterates that his girlfriend is “getting dressed
+and they’re rushing her. Can she get dressed?” Once Abdie’s girl-
+friend is fully dressed, police escort her and Abdie down the stairs,
+past Abdie’s sister, and out of the house. During the course of these
+events, no one appears to notice the existence of the body-worn
+camera, and there is no discussion of it by anyone in the apartment.
+The motion judge found that “[n]o one at the [a]partment gave per-
+mission to the police to use the body-worn camera” (R43/A41).
+
+12
+
+When he compared the February 10 bodycam footage to the
+February 25 Snapchat video, Detective Ball believed that the curtain
+that can be seen through the door of Abdie’s bedroom in the body-
+cam footage looked the same as the curtain behind Abdie in the
+Snapchat video (R43/A41). He therefore applied for a warrant to
+search the apartment at 1 Ames Street (R31). The warrant issued on
+February 27, 2017, and was executed on March 2 (R30,38). Various
+items were seized from the apartment, including the items that Ab-
+die eventually was convicted of unlawfully possessing (R38).
+
+SUMMARY OF THE ARGUMENT
+
+The warrantless creation, retention, and analysis of video foot-
+age of the inside of Abdie’s bedroom violated his constitutional
+right to be secure in his house against unreasonable searches. The
+filming of the inside of Abdie’s bedroom was a search of his house
+both because it was accomplished by means of a physical intrusion,
+and because it impinged on his reasonable expectation of privacy in
+his home. Infra, at 17–18. In addition, the subsequent inspection of
+the footage for investigative purposes unrelated to the reason for the
+officer’s presence in Abdie’s home constituted a new, independent
+intrusion on his reasonable expectation of privacy that required a
+separate constitutional justification. Infra, at 23–24. Any warrantless
+search of a house is presumptively unreasonable and unconstitu-
+tional. Because no warrant was ever obtained, these searches of Ab-
+die’s home were unlawful. Infra, at 24–25.
+
+The judge’s conclusion that the recording was permissible
+simply because the officer who shot it was lawfully present in the
+house was error. Video recording the inside of someone’s home is a
+
+13
+
+significantly greater intrusion on their privacy than simply entering
+the house in order to accomplish a particular task. Infra, at 18–23.
+Because no one gave permission for (or apparently even knew
+about) this invasion of the Yusufs’ privacy, the officer’s filming ex-
+ceeded the scope of his consent to enter the home, and his physical
+intrusion was unlicensed and unreasonable to the extent it involved
+that filming. Infra, at 25–28. Nor could any emergency or exigency
+justify the recording, since it was not necessary to record the en-
+counter in order to address the situation at hand. Infra, at 28–30.
+
+It may be that the Constitution does not categorically forbid
+programmatic warrantless, suspicionless, nonconsensual filming of
+police responses to citizens’ homes. Indeed, public policy may coun-
+sel in favor of a comprehensive police bodycam program in order to
+promote accountability and public trust. But in order for such a
+program to pass constitutional muster, it must be strictly divorced
+from the general police interest in law enforcement. The program
+implemented by the Boston Police Department, by which footage is
+archived and retained forever, and is readily available to any officer
+who believes it may assist in any ongoing investigation, impermissi-
+bly upsets the balance between individual freedom and government
+surveillance. A constitutional bodycam program ideally should in-
+corporate limits on the retention of footage and severe restrictions
+on the permissible uses to which the footage may be put; the prima-
+ry use of the footage should always be in service of the non–law en-
+forcement purposes of the bodycam program. At the very least, in-
+spection of a recording of the inside of someone’s home offends
+constitutional principles in the absence of a warrant. Infra, at 30–35.
+
+14
+
+ARGUMENT
+
+Abdie’s motion to suppress should have been allowed because
+the warrantless creation, retention, and inspection of video foot-
+age of the inside of his bedroom violated his constitutional rights.
+Abdie moved to suppress the evidence found when the warrant
+was executed, arguing, as pertinent to this appeal, that “[t]he video
+of the interior of [his] residence was obtained without a warrant,
+and should therefore be … suppressed from consideration in sup-
+port of [Detective] Ball’s application for a search warrant” (R23). See
+Commonwealth v. DeJesus, 439 Mass. 616, 625 (2003) (unlawfully ob-
+tained information must be excluded from assessment of whether
+affidavit establishes probable cause to issue warrant). Abdie argued
+that the recording of the footage exceeded the scope of his sister’s
+consent for police to enter their apartment, and that the subsequent
+retrieval and viewing by police of footage of the inside of Abdie’s
+home violated his reasonable expectation of privacy (R23).
+
+As Abdie argued below, without the bodycam footage to con-
+nect the Snapchat video to Abdie’s bedroom, Detective Ball’s affida-
+vit fails to establish a nexus between any suspected contraband and
+the apartment at 1 Ames Street. See DeJesus, 439 Mass. at 626 (analyz-
+ing affidavit to determine whether, when stripped of references to
+unlawfully obtained evidence, it “contain[ed] sufficient information
+for an issuing magistrate to determine … that the items reasonably
+may be expected to be located in the place to be searched”). See gen-
+erally Commonwealth v. Escalera, 462 Mass. 636, 641–643 (2012) (dis-
+cussing “nexus” requirement). Thus, if the bodycam footage was un-
+lawfully obtained, the items seized pursuant to the search warrant
+must be suppressed as fruit of the poisonous tree. See DeJesus, supra.
+
+15
+
+The motion judge rejected Abdie’s arguments and denied the
+motion. He held that the scene at 1 Ames Street on February 10 was
+too “chaotic” to reasonably expect the officer wearing the bodycam
+to obtain consent before filming the inside of Abdie’s home (R49/A
+47). The judge did not conduct any meaningful analysis of Abdie’s
+claim that his reasonable expectation of privacy had been violated
+by the subsequent warrantless access to and use of the footage for
+investigative purposes unrelated to the reason the police had been
+admitted into his home. Instead, the judge merely asserted that the
+claim was “unsupported by any law on point,” and declined to en-
+gage with the underlying legal principles “[i]n the absence of further
+guidance from the Appeals or Supreme Judicial Courts” (R51/A49).
+
+In reviewing the judge’s rulings, this Court must “accept [his]
+subsidiary findings of fact absent clear error but conduct an inde-
+pendent review of his ultimate findings and conclusions of law.”
+Commonwealth v. Tremblay, 480 Mass. 645, 652 (2018), quoting Com-
+monwealth v. Clarke, 461 Mass. 336, 340 (2012). Here, that independent
+review must lead to reversal. Abdie’s sister’s request for police to en-
+ter their apartment in order to remove Abdie’s girlfriend from the
+premises did not reasonably convey permission for them to film the
+inside of Abdie’s bedroom. And even if the recording had been
+permissibly made, the Gang Unit’s subsequent access to it and in-
+vestigative use of it was still a significant invasion of Abdie’s privacy.
+Absent a warrant, such an invasion is unreasonable; it violated Ab-
+die’s rights under the Fourth Amendment to the United States Con-
+stitution and article 14 of the Massachusetts Declaration of Rights.
+
+16
+
+A. Both the filming of the inside of Abdie’s house and the later
+inspection of the footage by the Gang Unit were searches
+requiring constitutional justification.
+
+The Fourth Amendment and art. 14 protect the people of Mas-
+sachusetts against “unreasonable searches” of their persons, houses,
+and possessions, by the government. Analysis of a claimed violation
+of these provisions begins by asking “whether a search in the consti-
+tutional sense took place.” Commonwealth v. Porter P., 456 Mass. 254,
+259 (2010). Although the motion judge’s order is not entirely clear on
+this point, his analysis suggests that he entertained doubts as to
+whether the creation and review of footage of the inside of Abdie’s
+home constituted “searches” at all. Both did. And in the absence of
+either a warrant or some exception to the warrant requirement,
+both searches were unreasonable and therefore unconstitutional.
+
+1. The bodycam footage is “information” obtained through
+
+an “unlicensed physical intrusion” into Abdie’s home.
+
+“When ‘the Government obtains information by physically in-
+truding’ on persons, houses, papers, or effects, ‘a “search” within the
+original meaning of the Fourth Amendment’ has ‘undoubtedly oc-
+curred.’” Florida v. Jardines, 569 U.S. 1, 5 (2013), quoting United States v.
+Jones, 565 U.S. 400, 406 n.3 (2012). Accord Commonwealth v. Leslie, 477
+Mass. 48, 49 (2017) (“analytical framework set out in Jardines” also
+applies to art. 14). The bodycam footage certainly is “information”
+that was obtained by police. “And they gathered that information by
+physically entering and occupying the area to engage in conduct not
+explicitly or implicitly permitted by the homeowner.” Jardines, 569
+U.S. at 6. More specifically, as discussed further infra, although po-
+lice were lawfully admitted to Abdie’s house for one purpose—to
+
+17
+
+remove his girlfriend from the house—they were not given permis-
+sion to film the inside of his home for a later, completely unrelated,
+investigative use. Their “physical intrusion” into the house was
+therefore “unlicensed” insofar as it involved that filming. Id. at 7.
+
+2. The creation, indefinite retention, and later review of a
+video recording of the inside of a person’s home intrude
+on that person’s reasonable expectation of privacy.
+
+In addition to that straightforward “physical intrusion” analysis,
+a “search” also occurs any time an agent of the state intrudes on an
+individual’s “reasonable expectation of privacy.” Porter P., 456 Mass.
+at 259, citing California v. Ciraolo, 476 U.S. 207, 211 (1986). “At the risk
+of belaboring the obvious, private residences are places in which the
+individual normally expects privacy free of governmental intrusion
+not authorized by a warrant, and that expectation is plainly one that
+society is prepared to recognize as justifiable.” United States v. Karo,
+468 U.S. 705, 714 (1984). See also Porter P., 456 Mass. at 260, citing Kyllo
+v. United States, 533 U.S. 27 (2001). Contrary to the motion judge’s ap-
+parent conclusion, both the video recording of the inside of Abdie’s
+house, and the Gang Unit’s later retrieval and review of that footage,
+infringed on Abdie’s reasonable expectation of privacy.
+
+a. A police officer videotaping the inside of someone’s
+home is a much more significant intrusion on that
+person’s privacy than the officer’s mere presence.
+
+The motion judge’s fundamental error was his apparent as-
+sumption that there is no difference, in terms of the intrusion on a
+person’s reasonable expectation of privacy, between a police officer
+being present inside the person’s home, and his video recording the
+interior of that home and preserving the recording “forever” (M.108)
+for later perusal and investigative use. But as this Court acknowl-
+
+18
+
+edged almost twenty years ago, the “intrusiveness” of a search of a
+home surely is enhanced by recording. Commonwealth v. Balicki, 436
+Mass. 1, 11–12 (2002). “It is one thing to be present in a home” for a
+valid law enforcement purpose, “and of necessity … in a position
+cursorily to notice many of its contents.” Id. at 12. “It is quite another
+to inspect the contents of a home and to create a permanent record
+of it for inspection by police, prosecutors, expert witnesses, and oth-
+ers at any time in the future.” Id. “This record can be played and re-
+played as many times as necessary or desired, and the images can be
+focused or enlarged to show each detail of every item in that citi-
+zen’s home.” Id. The intrusion occasioned by filming a police entry
+into a home is thus not only significant at the time it occurs, but re-
+mains so on an ongoing basis for as long as the video is retained.
+And the privacy harm is renewed when that video is later viewed.
+
+The concerns animating this Court’s analysis in Balicki gain
+even greater force in the context of the programmatic recording of
+ever more police interactions as the use of bodycams is steadily ex-
+panded. Cf. Carpenter v. United States, 138 S. Ct. 2206, 2218–2219 (2018),
+citing Kyllo, 533 U.S. at 36 (rule adopted must take ongoing advances
+in law enforcement surveillance technology into account). The
+permanent retention of bodycam footage will result, over time, in
+the creation of a vast archive of recordings of the inside of every
+home to which any officer has been admitted for any purpose, to
+which police have ready access any time they believe it may be per-
+tinent to an ongoing investigation. As with other novel surveillance
+technologies, this risks running afoul of “the founders’ intention ‘to
+place obstacles in the way of a too permeating police surveillance.’”
+
+19
+
+Commonwealth v. McCarthy, 484 Mass. 493, 499 (2020), quoting Car-
+penter, 138 S. Ct. at 2214. Indeed, the privacy risks here are potentially
+greater than those occasioned by “technological advances in the
+surveillance of public space,” McCarthy, 484 Mass. at 501, because
+they involve the creation of detailed records of the interiors of citi-
+zens’ homes. See Kyllo, 533 U.S. at 37 (“In the home, … all details are
+intimate details, because the entire area is held safe from prying
+government eyes”); Camara v. Municipal Court, 387 U.S. 523, 529
+(1967), quoting Johnson v. United States, 333 U.S. 10, 14 (1948) (“The
+right of officers to thrust themselves into a home is also a grave con-
+cern, not only to the individual but to a society which chooses to
+dwell in reasonable security and freedom from surveillance”).
+
+The judge’s blithe assumption that the creation and retention of
+an indelible recording of a police entry into a private home poses no
+threat to privacy so long as police “photographed only what they
+saw in fulfilling their duties” (R50/A48) blinks reality. As the use of
+bodycams becomes commonplace, and particularly as advancing
+technology enables automated scanning of mountains of digital
+footage (potentially including facial recognition technology), such a
+holding would fail “to ‘assure preservation of that degree of privacy
+against government that existed when the Fourth Amendment was
+adopted,’” and instead “would leave homeowners ‘at the mercy of
+advancing technology.’” Carpenter, 138 S. Ct. at 2214, quoting Kyllo, 533
+U.S. at 34–35. 3 This is because, “in the pre-computer age, the great-
+
+3 As to whether the framers of art. 14, the Fourth Amendment, or
+particularly the Fourteenth Amendment (through which the Fourth
+was made applicable to the States), would have considered photog-
+
+20
+
+est protections of privacy were neither constitutional nor statutory,
+but practical.” McCarthy, 484 Mass. at 499, quoting Jones, 565 U.S. at
+429 (Alito, J., concurring). The degree of privacy previously secured
+not by law but merely by law enforcement’s pragmatic limitations
+“must be preserved and protected as new technologies are adopted
+and applied by law enforcement” that enable previously impracti-
+cable infringements on privacy. McCarthy, 484 Mass. at 498, quoting
+Commonwealth v. Almonor, 482 Mass. 35, 41 (2019).
+
+As this Court knows, “human memory does not function like a
+video recording.” Commonwealth v. Gomes, 470 Mass. 352, 369 (2015).
+An officer responding to a domestic disturbance, while he may “cur-
+sorily” observe the house’s décor, Balicki, 436 Mass. at 12, is highly
+unlikely to retain a detailed memory of the patterns on the curtains
+of a bedroom he stood outside of for less than twenty seconds. This
+is an example of the type of “practical” privacy safeguard lost when
+police are equipped with cameras that permanently record every-
+thing in their line of sight—including things they did not even see
+or notice at the time—for later inspection and analysis. See United
+
+raphy a more significant intrusion on privacy than mere observa-
+tion, a clue may be found in Samuel Warren and Louis Brandeis’s
+seminal article on the concept of privacy in American law. That ar-
+ticle expressed alarm that “[i]nstantaneous photographs … have in-
+vaded the sacred precincts of private and domestic life,” and noted,
+with citations contemporaneous to the drafting of the Fourteenth
+Amendment, that “[f]or years there has been a feeling that the law
+must afford some remedy for the unauthorized circulation of por-
+traits of private persons.” Warren & Brandeis, The Right to Privacy, 4
+HARV. L. REV. 193, 195 (1890). See also id. at 213 (“The right of one who
+has remained a private individual, to prevent his public portraiture,
+presents the simplest case for” a legal remedy).
+
+21
+
+States v. Johnson, 314 F. Supp. 3d 248, 255, 257 (D.D.C. 2018) (bodycam
+footage “by its nature contains a wealth of information that would
+not ordinarily be captured by more traditional materials, like writ-
+ten police reports,” including “sensitive information in which wit-
+nesses and others depicted on the footage have a legitimate privacy
+interest”). Cf. Commonwealth v. Eason, 427 Mass. 595, 600–601 (1998)
+(audio recording presents distinct constitutional issue from police
+memory of overheard conversation).
+
+Contrary to the motion judge’s apparent conclusion, the mere
+fact that the officer was lawfully present at the time he made the re-
+cording does not obviate the Yusufs’ privacy interest against pho-
+tography of the inside of their home. See, e.g., Jardines, 569 U.S. at 8–9
+(opinion of the Court), 13–15 (Kagan, J., concurring) (lawfulness of
+officer’s presence on front porch not dispositive of reasonableness
+of dog sniff conducted there); Commonwealth v. Panetti, 406 Mass.
+230, 234 (1989) (officer eavesdropping on conversation from crawl
+space under apartment floor violated resident’s reasonable expecta-
+tion of privacy, even though officer was lawfully present in crawl
+space). See also Florida v. Riley, 488 U.S. 445, 464–465 (1989) (Brennan,
+J., dissenting) (noting agreement of majority of Court that reasona-
+bleness of homeowner’s expectation of privacy against aerial sur-
+veillance does not depend on lawfulness of police presence in loca-
+tion from which they make observations), and compare Dow Chemical
+Co. v. United States, 476 U.S. 227, 237–238 & n.4 (1986) (approving aeri-
+al surveillance photography of commercial property in light of re-
+duced expectation of privacy as compared to home and curtilage),
+with Ciraolo, 476 U.S. at 212–213 & n.1 (declining to pass on constitu-
+
+22
+
+tionality of aerial photography of home’s curtilage even while hold-
+ing “naked-eye observation” permissible).
+
+b. The subsequent inspection of the footage by other
+officers for purposes unrelated to its initial creation
+was a new and separate intrusion on Abdie’s rea-
+sonable expectation of privacy in his home.
+
+Moreover, the retention of the footage of the inside of Abdie’s
+home and its later retrieval and review by other officers for investi-
+gative purposes totally unrelated to the domestic disturbance that
+occasioned its creation constituted an independent infringement of
+Abdie’s reasonable expectation of privacy. In examining technolog-
+ical advances that permit law enforcement to collect data that may
+reveal private details about citizens’ lives, this Court has held that
+both the collection of the data and its subsequent retention and
+analysis are events of potential constitutional import that must be
+separately analyzed. See, e.g., McCarthy, 484 Mass. at 506 (noting
+constitutional implications of “one-year retention period” for li-
+cense plate reader data); id. at 513 (Gants, C.J., concurring) (suggest-
+ing that warrant may be required before police may analyze their
+own lawfully collected data if such analysis would violate reasona-
+ble expectations of privacy); Commonwealth v. Norman, 484 Mass.
+330, 333 (2020), citing Commonwealth v. Johnson, 481 Mass. 710, 715
+(2019) (even if initial collection of GPS data was constitutional, later
+analysis of it may still require warrant); Commonwealth v. Arzola, 470
+Mass. 809, 817–818 (2015), citing Maryland v. King, 569 U.S. 435, 464–
+465 (2013) (DNA analysis of lawfully seized evidence could require
+warrant depending on what information will be obtained). See also
+Birchfield v. North Dakota, 136 S. Ct. 2160, 2178 (2016) (requiring war-
+
+23
+
+rant for blood test but not breath test, in part because retention of
+blood sample gives rise to “potential” for future testing that could
+reveal private information, which “may result in anxiety”); Landry v.
+Attorney General, 429 Mass. 336, 354 (1999) (“indefinite storage” of
+DNA sample “creates some concern that the samples could be mis-
+used at some point in the future”).
+
+The same is true here. The availability of video footage of the
+inside of someone’s home for viewing and analysis by any police of-
+ficer who believes it may, if studied carefully enough, furnish some
+evidence of a crime, implicates serious privacy interests. The inva-
+sion of privacy entailed by the Gang Unit’s acquisition and inspec-
+tion of the bodycam footage was different both in degree and in
+kind from that previously accomplished by another officer’s mere
+presence in Abdie’s home. See Balicki, 436 Mass. at 11–12. See also Ca-
+mara, 387 U.S. at 537 (search “aimed at the discovery of evidence of
+crime” is more invasive). Indeed, the ability to slow down, enhance,
+and magnify video footage potentially makes it possible for police
+later to discover not only details about the inside of the home that
+the officer who made the recording happened not to notice at the
+time, but also those that he could not have noticed. See Karo, 468 U.S.
+at 715 (search occurs when government uses surveillance technology
+to obtain information about interior of home “that it could not have
+otherwise obtained without a warrant”).
+
+The Gang Unit’s acquisition and inspection of the footage
+therefore was itself a search requiring an independent constitution-
+al justification. Given the absence of any exigency that would have
+prevented the Gang Unit from obtaining a warrant, their warrant-
+
+24
+
+less review of the footage violated the Fourth Amendment and art.
+14. See Almonor, 482 Mass. at 47 n.15 (“As always, governmental con-
+duct that invades reasonable expectations of privacy is ordinarily
+not permitted without a warrant, regardless of how such an invasion
+takes place”). Cf. Riley v. California, 573 U.S. 373, 392–393 (2014) (war-
+rant required for search conducted at time of arrest if it entails “sub-
+stantial additional intrusion on privacy beyond the arrest itself”).
+
+B. The recording of the inside of the Yusufs’ apartment was
+unconstitutional because it exceeded the scope of the per-
+mission granted to police to enter the home.
+
+“With few exceptions, the question whether a warrantless
+search of a home is reasonable and hence constitutional must be an-
+swered no.” Kyllo, 533 U.S. at 31. Accord, e.g., Commonwealth v. Kaep-
+peler, 473 Mass. 396, 400–401 (2015). The actions of whatever police
+officer entered and filmed the inside of the Yusufs’ home on Febru-
+ary 10, 2017, therefore constituted a presumptively unlawful war-
+rantless search, which the Commonwealth bore the burden of justi-
+fying by showing that it fell within one of the few “jealously and
+carefully drawn” exceptions to the warrant requirement. Common-
+wealth v. Tuschall, 476 Mass. 581, 589 (2017), quoting Jones v. United
+States, 357 U.S. 493, 499 (1958).
+
+The exception that applied to legitimize the officer’s entry into
+Abdie’s home was that Abdie’s sister consented to it. There is no
+question that she was empowered to invite the police into the home
+that she also shared. See Georgia v. Randolph, 547 U.S. 103, 109 (2006).
+But it does not necessarily follow that the officer was thereby em-
+powered to create, and preserve indefinitely, video documentation
+of the inside of the Yusufs’ apartment. As discussed supra, the video
+
+25
+
+recording of the officer’s search of the Yusufs’ home rendered that
+search considerably more intrusive. And, as the motion judge
+acknowledged (R43/A41), no one had consented to that enhanced
+intrusion on the family’s privacy.
+
+“A search that is based on consent may not exceed the scope of
+that consent.” Commonwealth v. Ortiz, 478 Mass. 820, 824 (2018), citing
+Commonwealth v. Cantalupo, 380 Mass. 173, 178 (1980) (“Because con-
+sent can legitimize what would otherwise be an unreasonable and
+illegal search, a search with consent is reasonable and legal only to
+the extent that the individual has consented”). And “[t]he scope of a
+search is generally defined by its expressed object.” Florida v. Jimeno,
+500 U.S. 248, 251 (1991). See also Jardines, 569 U.S. at 9 (“The scope of a
+license—express or implied—is limited not only to a particular area
+but also to a specific purpose”).
+
+The expressed object of the entry to which Abdie’s sister con-
+sented was the removal of Abdie’s girlfriend from the house. The
+officer’s use of a bodycam to film the entire interaction was not nec-
+essary to accomplish that purpose. Certainly, no one would expect
+another professional invited into the home to accomplish a particu-
+lar task—a plumber, say, or a cable installer—to videotape the ser-
+vice call without asking permission first. Cf. Jardines, 569 U.S. at 8 &
+n.2 (absent a warrant, police have no lawful authority to do anything
+that would not be “expected of ordinary visitors”). Just as,
+in
+Jardines, the fact that the officer was lawfully permitted to approach
+the front door and knock did not also permit him to conduct a dog
+sniff on the front porch, 569 U.S. at 8–9, so too here, the fact that the
+officer was lawfully permitted to enter the apartment to assist in de-
+
+26
+
+fusing the situation inside did not also permit him to film it. See id. at
+7 (“an officer’s leave to gather information is sharply circumscribed
+when he steps off [public] thoroughfares and enters the Fourth
+Amendment’s protected areas”).
+
+The additional intrusion on the sanctity of Abdie’s home that
+was occasioned by the use of the bodycam exceeded the scope of his
+sister’s consent, and therefore was unreasonable. See id. at 9 (“Con-
+sent at a traffic stop to an officer’s checking out an anonymous tip
+that there is a body in the trunk does not permit the officer to rum-
+mage through the trunk for narcotics”). Accord, e.g., Commonwealth v.
+Gray, 465 Mass. 330, 343–344 (2013) (“Although the police lawfully
+entered the apartment based on Alecia’s consent, her consent did
+not thereby give police further permission to conduct a search of the
+premises”); Commonwealth v. Augello, 71 Mass. App. Ct. 105, 107 n.4,
+S.C., 452 Mass. 1021 (2008) (“Allowing the police to enter the apart-
+ment to speak with them is not the same as giving permission to
+search the apartment”); Commonwealth v. Thomas, 67 Mass. App. Ct.
+738, 741–742 (2006) (arrestee’s request for police to lock his door did
+not permit them to search drawer in his bedroom for keys; scope of
+permissible police activity “limited to acts reasonably necessary to
+comply with the defendant’s oral request to lock the apartment”).
+
+Moreover, even if Abdie’s sister had given police permission to
+film, it is far from apparent that such consent would be valid as to
+the inside of Abdie’s bedroom. “The reasonableness of a consent
+search ‘is in significant part a function of commonly held under-
+standing about the authority that co-inhabitants may exercise in
+ways that affect each other’s interests.’” Porter P., 456 Mass. at 262–
+
+27
+
+263, quoting Randolph, 547 U.S. at 111. And while there is a common
+understanding that one resident of a home may invite a visitor to
+enter, few would expect such an invitee to roam throughout the
+house and memorialize the contents of the other residents’ private
+rooms for later perusal by his colleagues. Cf. Commonwealth v. Lopez,
+458 Mass. 383, 399 (2010) (Gants, J., concurring) (discussing limita-
+tions on individuals’ authority to consent to searches of parts of
+their homes that are occupied by others). This transgression of the
+“background social norms” that give shape to the broadly worded
+text of the Fourth Amendment and art. 14, Jardines, 569 U.S. at 9,
+rendered the filming of the inside of Abdie’s room (where, it may be
+noted, his girlfriend was still getting dressed when the camera ar-
+rived) unreasonable and unconstitutional.
+
+C. The filming was not justified by the other exceptions to the
+
+warrant requirement alluded to by the motion judge.
+
+The motion judge grounded his holding that the filming was
+lawful in part on a kind of exigency analysis, opining that “[t]here
+was no reasonable opportunity for, or any rational reason to re-
+quire, the police to halt their efforts to control what could have been
+a violent situation by seeking and obtaining consent—presumably
+from all of the angry parties—to permit recording” (R49/A47). Re-
+spect for the constitutional privacy interests of individuals in their
+homes—where “all details are intimate details,” Kyllo, 533 U.S. at
+37—would seem to be a sufficiently “rational reason” for requiring
+police to obtain consent before filming the inside of someone’s
+house. And exigent circumstances cannot justify an intrusion on the
+privacy of the home absent probable cause of a crime, which no one
+
+28
+
+has ever contended was present here. See Commonwealth v. Arias, 481
+Mass. 604, 615 (2019). Nor was the officer confronted with an emer-
+gency that required him and his camera (as opposed to other offic-
+ers already on the scene) to intervene without delay.
+
+Moreover, even assuming that the circumstances confronting
+the responding officers had been sufficient to trigger the emergency
+aid or exigent circumstances doctrines, those exceptions to the war-
+rant requirement are to be “narrowly construed.” Arias, 481 Mass. at
+614–615. See also id. at 610 (“the search must not exceed the scope of
+the emergency”). As noted supra, there was no need to record the
+encounter in order to address the situation at hand; refraining from
+filming the inside of the Yusufs’ home without their consent would
+not have required police to “halt their efforts to control” the situa-
+tion (R49/A47). Indeed, had none of the responding officers been
+equipped with a bodycam, there is no reason to believe any part of
+the encounter would have gone any differently. And any exigency
+presented on February 10 certainly did not require indefinite reten-
+tion of the recording, or warrantless access to it by other officers for
+an entirely unrelated investigation.
+
+It has long been established that a search conducted pursuant
+to any of the exceptions to the warrant requirement must be “strictly
+circumscribed by the exigencies which justify its initiation.” Ran-
+dolph, 547 U.S. at 113 n.3, quoting Mincey v. Arizona, 437 U.S. 385, 393
+(1978). See also Wilson v. Layne, 526 U.S. 603, 611 (1999), quoting Mary-
+land v. Garrison, 480 U.S. 79, 87 (1987) (“The purposes justifying a po-
+lice search strictly limit the permissible extent of the search”). Both
+this Court and the Appeals Court have repeatedly held unconstitu-
+
+29
+
+tional any police action more intrusive than necessary to deal with
+the emergency at hand. See, e.g., Kaeppeler, 473 Mass. at 403–405;
+Gray, 465 Mass. at 345; Commonwealth v. Entwistle, 463 Mass. 205, 217
+(2012); Commonwealth v. Suters, 90 Mass. App. Ct. 449, 457 (2016);
+Commonwealth v. Sondrini, 48 Mass. App. Ct. 704, 706–707 (2000);
+Commonwealth v. Bass, 24 Mass. App. Ct. 972, 974 (1987). And as dis-
+cussed supra, the excessiveness of the intrusion here was substantial.
+The motion judge erred by failing to recognize that fact.
+
+D. The public policy concerns animating the motion judge’s
+conclusion that the recording was lawful cannot justify
+programmatic suspicionless filming of the insides of peo-
+ple’s homes for general law enforcement purposes.
+
+The motion judge’s ruling was also motivated in part by his be-
+lief that the public policy considerations underlying the use of body-
+cams militate in favor of recording police interactions, even when
+they occur in private homes. In the judge’s words, “[o]ne of the pur-
+poses of the body-worn camera is to ensure that police act in ac-
+cordance with the law under tense circumstances like these; the law
+encourages, and does not prohibit, its use here” (R49–50/A47–48).
+The judge cited no authority for the proposition that “the law en-
+courages” police to record the insides of people’s homes during ser-
+vice calls without notice or consent.
+
+As an initial matter, it is hardly self-evident that the public poli-
+cy concerns driving the adoption of bodycams would be advanced
+by a holding that police may record everything they see and hear,
+archive those recordings forever, and review them whenever they
+think it might be useful to any ongoing investigation. “The purpose
+of body-worn-camera footage,” even on the motion judge’s account-
+
+30
+
+ing, is not general crime detection or prevention, but instead “is for
+use in the service of other key objectives of the program, such as
+transparency, accountability, and public trust-building.” Patrolmen’s
+Benevolent Ass’n of N.Y. v. De Blasio, 171 A.D.3d 636, 637 (2019). Accord
+R50/A48 (describing purpose as ensuring lawfulness of police con-
+duct). But if every encounter with a police officer may be recorded,
+preserved forever, and later painstakingly analyzed in the hope that
+it may furnish evidence of a crime unrelated to the encounter itself,
+citizens may justifiably hesitate before calling police for assistance
+or inviting them into their homes. Rather than furthering the “key
+objectives” of “accountability” and “public trust-building,” id., the
+motion judge’s holding actually may threaten to undermine them.
+
+In any event, general public policy considerations cannot trump
+enumerated constitutional rights. See Wilson, 526 U.S. at 612 (“Were
+such generalized ‘law enforcement objectives’ themselves sufficient
+to trump the Fourth Amendment, the protections guaranteed by
+that Amendment’s text would be significantly watered down”). Even
+where a considered policy judgment is made by the Legislature, this
+Court “must, as always, provide an independent review of the con-
+stitutionality of the governmental conduct that is authorized by
+statute.” Johnson, 481 Mass. at 723. And here, there is not even any
+legislative authorization for the search at issue. Instead, there is
+nothing more than a decision by the Boston Police Department to
+equip certain officers with cameras, archive the footage “forever,”
+and allow any officer to access it upon request if they believe it rele-
+vant to an investigation (M.108,110).
+
+31
+
+“The right of privacy was deemed too precious to entrust to the
+discretion of those whose job is the detection of crime and the arrest
+of criminals.” McDonald v. United States, 335 U.S. 451, 455–456 (1948).
+This is why “the Constitution requires a magistrate to pass on the
+desires of the police before they violate the privacy of the home.” Id.
+at 456. The judge gave no reason why the Gang Unit’s inspection of
+the bodycam footage—which “reveal[ed] a critical fact about the in-
+terior of [Abdie’s home] that the Government [was] extremely inter-
+ested in knowing and that it could not have otherwise obtained
+without a warrant,” Karo, 468 U.S. at 715—should be exempted from
+this fundamental principle. Cf. Johnson, 481 Mass. at 715 (separately
+analyzing reasonableness both of initial imposition of GPS monitor-
+ing, and of “subsequent review of the historical GPS location data
+for investigatory purposes”). In fact, as noted supra, he did not con-
+duct any reasoned analysis of that inspection at all.
+
+The motion judge’s holding essentially permits police to con-
+duct warrantless, suspicionless searches, for general criminal inves-
+tigative purposes, of any home any officer equipped with a bodycam
+has ever entered, in the guise of a program to enhance police trans-
+parency, accountability, and public trust. But this Court has made
+clear that “programmatic, suspicionless searches” are permissible
+“only when [they] minimally invad[e] already diminished expecta-
+tions of privacy.” Commonwealth v. Feliz, 481 Mass. 689, 699 (2019).
+Far from a “minimal” invasion of an “already diminished” expecta-
+tion of privacy, the Gang Unit’s review of footage of the inside of
+Abdie’s bedroom was a significant intrusion on the sanctity of his
+home—the area where his reasonable expectation of privacy is at its
+
+32
+
+zenith. The judge’s failure to grapple with that fact fatally under-
+mines his scant legal analysis.
+
+It may well be that the public policy considerations identified
+by the judge could justify filming the police action at issue here. But
+they could only do so if the subsequent use of the footage was strict-
+ly limited to the non–law enforcement purposes underlying the
+bodycam program. In that case, the filming potentially could be jus-
+tified under the “special needs” exception to the warrant require-
+ment. See, e.g., Griffin v. Wisconsin, 483 U.S. 868, 873 (1987). The hall-
+mark of that exception is the existence of “special needs, beyond the
+normal need for law enforcement, [that] make the warrant and
+probable-cause requirement impracticable.” Id., quoting New Jersey
+v. T.L.O., 469 U.S. 325, 351 (1985) (Blackmun, J., concurring). The use-
+fulness of bodycam footage in ensuring law enforcement accounta-
+bility could, perhaps, qualify as such a “special need.”
+
+But the essence of the special needs doctrine is a need that is
+“divorced from the State’s general interest in law enforcement.” Fer-
+guson v. Charleston, 532 U.S. 67, 79 (2001). Hence the holding that
+“warrantless searches are typically unreasonable where ‘a search is
+undertaken by law enforcement officials to discover evidence of
+criminal wrongdoing.’” Carpenter, 138 S. Ct. at 2221, quoting Vernonia
+School Dist. 47J v. Acton, 515 U.S. 646, 652–653 (1995). Programmatic
+searches that are conducted without a warrant supported by proba-
+ble cause may not constitutionally be “turned into ‘a purposeful and
+general means of discovering evidence of crime.’” Florida v. Wells,
+495 U.S. 1, 4 (1990), quoting Colorado v. Bertine, 479 U.S. 367, 376 (1987)
+(Blackmun, J., concurring). Compare, e.g., Acton, 515 U.S. at 658 (drug
+
+33
+
+testing of students permissible because test results “disclosed only
+to a limited class of school personnel who have a need to know,” are
+“not turned over to law enforcement authorities or used for any in-
+ternal disciplinary function”), with Ferguson, 532 U.S. at 83 (warrant-
+less drug testing of hospital patients unconstitutional where pro-
+gram “generat[ed] evidence for law enforcement purposes”).
+
+Abdie assumes arguendo that the need to “ensure that police act
+in accordance with the law” (R50/A48), which the judge concluded
+was the bodycam program’s purpose, could be “important enough
+to override [his] privacy interest” in not having his bedroom filmed
+without his express consent. Chandler v. Miller, 520 U.S. 305, 318
+(1997). Even so, the objectively reasonable expectation of the public
+logically should be that footage generated through that program
+will be put to use only for that purpose. See Commonwealth v. Buccel-
+la, 434 Mass. 473, 485 (2001) (citizens reasonably expect that materi-
+als gathered by government for particular purposes will be used
+“solely for the purposes intended and not disclos[ed] to others in
+ways that are unconnected with those intended purposes”). Compare
+Johnson, 481 Mass. at 727–728 (probationer should reasonably expect
+GPS data to be used “to deter and detect criminal activity during the
+probationary period,” but “indiscriminate rummaging” in that data
+“might raise different, more difficult constitutional questions about
+objective expectations of privacy, even for a probationer”).
+
+This is not to say that, if police have good reason to think that
+particular bodycam footage contains evidence pertinent to an unre-
+lated investigation, they never can get access to that footage. It is
+merely to say that before they may do so, their “obligation is a famil-
+
+34
+
+iar one—get a warrant.” Carpenter, 138 S. Ct. at 2221. Given the seri-
+ous intrusion on the sanctity of the home occasioned by ready po-
+lice access to such footage, this is hardly an unreasonable require-
+ment. There has been no suggestion that “the burden of obtaining a
+warrant is likely to frustrate the governmental purpose behind the
+search.” Camara, 387 U.S. at 533. Nor could there be; where the foot-
+age has already been retained and archived, interposition of a neu-
+tral magistrate between that footage and general law enforcement
+“rummaging,” Johnson, 481 Mass. at 727, would not frustrate the ob-
+jectives of any well-grounded search.
+
+CONCLUSION
+
+The unauthorized creation, retention, and analysis of video
+footage of the inside of Abdie’s bedroom intruded on his reasonable
+expectation of privacy. Because no warrant was obtained and no ex-
+ception to the warrant requirement applies, his motion to suppress
+that footage and its fruits should have been allowed.
+
+Respectfully submitted,
+ABDIRAHMAN YUSUF
+By his attorney,
+/s/ Patrick Levin
+Patrick Levin, BBO #682927
+COMMITTEE FOR PUBLIC COUNSEL SERVICES
+Public Defender Division
+44 Bromfield Street, Suite 301
+Boston, Massachusetts 02108
+(617) 482-6212
+plevin@publiccounsel.net
+
+July 31, 2020
+
+35
+
+ADDENDUM
+TABLE OF CONTENTS
+
+ORDER ON MOTION TO SUPPRESS................................................................A37
+UNITED STATES CONSTITUTION
+
+Fourth Amendment ..............................................................................A58
+
+MASSACHUSETTS DECLARATION OF RIGHTS
+
+Article 14....................................................................................................A58
+
+36
+
+C O M M O N W E A LT H  O F  M A S S A C H U S E T T S
+
+S U F F O L K , 
+
+s s . 
+
+S U P E R I O R 
+
+C O U R T
+A C T I O N
+
+C R I M I N A L 
+N O .  1 7 - 0 4 5 5
+N O .  1 8 - 0 0 0 5
+
+C O M M O N W E A L T H
+
+v s .
+
+A B I R A H M A N 
+
+Y U S U F
+
+Y U S U F Y U S U F
+
+M E M O R A N D U M  D E F E N D A N T S *  M O T I O N  T O  S U P P R E S S
+
+The defendant, Abirahman Yusuf ("Abdie"), is charged with ﬁrearm offenses arising from
+
+the seizure by Boston Police of a ﬁrearm and ammunition following execution of a search
+warrant at his residence located at 1 Ames Street, Apartment 1, Dorchester ("the Apartment").
+His brother, Yusuf Yusuf ("Yusuf), is charged with possession of ammunition and possession of
+a Class D substance with intent to distribute, also arising from the search. The defendants raise
+
+several claims in connection with their motions to suppress the result of the search:
+
+Franks/Amral: Abdie claims that he is entitled to a hearing under either Franks v.
+
+Delaware. 438 U.S. 154 (1978) or Commonwealth v. Amral. 407 Mass. 511, 522-23 (1990)
+
+because (1) the afﬁant of the search warrant afﬁdavit omitted mention of numerous Field
+
+Interrogation/Observation Reports (FlOs) which showed that Abdie was not in possession of
+
+guns on dates before the search, the omission of which misled the magistrate; and (2) the
+afﬁant's allegation in the search warrant afﬁdavit that Abdie was likely in possession of a "real"
+
+ﬁrearm was false or misleading.
+
+Suppression of Evidence Seized Pursuant to a Search Warrant: Abdie moves to
+
+suppress the results of the search warrant on several grounds: (1) that the warrant was based on
+
+1
+
+A37footage of the Apartment improperly taken with a body-worn camera and improperly preserved
+by police; (2) that the warrant was based on videos posted by Abdie on a popular cellular phone
+application called SnapChat which were improperly accessed and improperly recorded; and (3)
+that since the warrant did not permit photographs to be taken during the execution of the warrant,
+
+all such photographs should be suppressed.
+
+Standing: To the extent he has standing, Yusuf seeks to join in Abdie's suppression
+
+m o t i o n .
+
+Miranda issue: Abdie argues that statements he made at booking should be suppressed
+
+as the fruits of the illegality mentioned above or because they were taken in violation of
+
+Miranda.
+
+An evidentiary hearing on the motion was conducted on September 5, 2018, after which
+Yusuf submitted a supplemental memorandum.' In light of the arguments made by counsel and
+
+the facts presented, and for the reasons stated below, the defendants' motions are DENIED.
+
+F I N D I N G S  O F  F A C T
+
+Boston Police Detective Brian Ball testiﬁed. I fully credit his testimony. Ball is a
+
+detective in the Youth Violence Task Force, colloquially known as the Gang Unit. He has been a
+
+police ofﬁcer with the Boston Police for almost 16 years, has spent some 2.5 years in the Gang
+Unit, and specializes in collecting ﬁrearm and other evidence in support of cases brought by the
+
+Gang Unit through the application for search warrants and otherwise.
+
+In January 2017, the Gang Unit was engaged in an investigation of Abdie, a suspected
+
+gang member, and had collected information that Abdie unlawfully possessed ﬁrearms. Ball
+
+1 At the conclusion of the hearing, the Court directed the Commonwealth to produce, in camera, the SnaoChat
+identity that its ofﬁcer used to access Abdie's SnapChat account to determine whether the defense was entitled to
+further discovery of that information and to assess the Amral claim. After review of that information, the Court has
+determined that no further discovery is warranted.
+
+2
+
+A38became involved in the investigation shortly thereafter, and began monitoring Abdie's SnapChat
+
+account. SnapChat is an application used typically with cellular telephones in which users can
+
+take photographs and record videos and share them with other users to whom the SnapChat user
+
+has granted access as "friends." Ball requested such access in late 2016 or early 2017 using an
+
+undercover account and undercover identity. The undercover identity did not use Ball's real
+
+name or identify Ball as a police ofﬁcer; instead, it used a ﬁctitious nickname and substituted an
+
+"emoji," a digital cartoon, for a photograph of that user. Abdie, who used the name "dee.fazo"
+on SnapChat, granted Ball access through this account. Thereafter, Ball monitored the posts on
+
+SnapChat that Abdie allowed him to see. While SnapChat videos are usually automatically
+deleted after 24 hours, others which are posted on the "My Story" portion of the site are not
+
+automatically deleted and remain available to the user's "friends" until the user removes them or
+takes some other action to limit access to them. Ball reviewed those videos and preserved them
+
+by playing them with one cellular telephone and recording them using another cellular phone.
+
+Before Ball began monitoring Abdie's SnapChat account, at least two other Boston Police
+
+ofﬁcers  had  done  so  since  about  June  2016.  Ball  testiﬁed  that  those  other  ofﬁcers  who
+
+monitored Abdie's SnapChat account before him did so following the same procedure that he had
+followed - using a pseudonym to request Abdie's permission to access his SnapChat account,
+which Abdie provided. The parties stipulated that Boston Police had viewed and recorded 27
+
+SnapChat videos from Abdie's account, which were dated between June 2016 and February of
+2017.  Ball  reviewed  these  videos.  Several  of  them  showed  Abdie  with  ﬁrearms.  Indeed,  Ball
+
+was brought into the investigation to assist the ofﬁcers in gathering sufﬁcient evidence to
+
+establish probable cause to search Abdie for the ﬁrearms because there were so many of them in
+
+3
+
+A39the videos and the ofﬁcers (and later Ball) believed the ﬁrearms displayed by Abdie were real
+
+ﬁrearms, not replicas.
+
+After Ball "friended" Abdie, he frequently checked his SnapChat for posts, as Abdie
+
+frequently posted videos. Ball did not save all of the videos he watched. Many were of Abdie
+walking down streets smoking marijuana, which Ball decided were of no evidentiary value, but
+he deemed others to be signiﬁcant and recorded them. Some of the videos which were saved
+were introduced into evidence. They show Abdie displaying guns. One such video includes the
+
+caption "I got mine on me too." Another includes the caption "Watch who you call bro." These
+posts do not appear to be targeted at Abdie's friends, but rather appear to be threats directed at
+Abdie's rivals, presumably in other gangs, who may be viewing the videos.
+
+On February 25,2017, Ball viewed a video on Abdie's SnapChat account, which was
+
+entered into evidence. It showed Abdie in what appeared to be a bedroom with a gun. Ball was
+familiar with Abdie and recognized him in the video. The video showed that it had been posted
+on February 25. SnapChat videos are typically created and posted at the same time. SnapChat
+reﬂects the time a video is posted, which typically corresponds to when the video was created.
+
+Although it is possible to record a video and post it later, SnapChat videos often provide
+evidence that this was the case - in most cases, there would be a camera roll icon in the video,
+
+showing that the video was posted from the user's archives. Ball did not see this icon in the
+video posted on February 25 and saw no evidence to suggest the video was created and posted
+earlier than on February 25. As noted above, it was not unusual that Abdie was displaying a gun
+
+during a SnapChat video, as he had done so several times over the previous several months.
+However, Ball noticed a distinctive curtain in the background of the video.
+
+4
+
+A40Ball was aware that a few weeks previously, on February 10, 2017, Boston Police had
+
+been called to Abdie's apartment for a domestic disturbance. An ofﬁcer responding to the call
+was wearing a body camera. Body-worn cameras of the type used on February 10, 2017, are
+worn on the chest of the ofﬁcer, and emit an audible beep and red light. The footage from that
+camera was preserved by Boston Police and by Ball.^ A video of that footage was entered into
+evidence. It showed Boston Police ofﬁcers entering the Apartment, in which both Abdie and
+Yusuf lived. No one at the Apartment gave permission to the police to use the body-worn
+camera. The scene inside was chaotic: two women from the ﬁrst ﬂoor were yelling at and about
+Abdie and a woman, evidently his girlfriend, on the second ﬂoor. The women on the ﬁrst ﬂoor
+wanted Abdie's girlfnend to leave, but continued yelling about the situation and at the police as
+the ofﬁces tried to remove the girlfnend from the Apartment. As part of that effort, the police
+interacted with Abdie outside of his bedroom, which was depicted in the video. In Abdie's
+bedroom hung the same curtain Ball had seen in the SnapChat video. From this. Ball determined
+that there was probable cause to believe that Abdie had possessed the ﬁrearm in the SnapChat
+video in his bedroom, and did so on February 25.
+
+Because that video showed the location at which Abdie possessed the ﬁrearm. Ball
+
+focused on it in preparing a search warrant afﬁdavit. On February 27, 2017, Ball applied for and
+
+obtained a search warrant for the Apartment. In the search warrant afﬁdavit. Ball noted that the
+
+guns Abdie possessed in a number of SnapChat videos were real because Abdie "has been
+observed on several occasions loading ﬁrearms with ammunition," which showed the guns were
+
+2 Another ofﬁcer, Sergeant Detective John Broderick, became aware of the video from a body-worn camera that
+related to the Apartment when he saw a call for service at that location and determined that one of the ofﬁcers was
+wearing a camera. He requested the footage and said that as far as he knew, the body-worn camera video relied
+upon in the search warrant afﬁdavit was saved permanently by Boston Police, but could only be accessed if it was
+requested in an investigation.
+
+5
+
+A41not replicas. Further, Ball is an experienced detective who has used, seized, seen and handled
+ﬁrearms and been involved in ﬁrearm investigation for some 16 years, and Ball believed the
+ﬁrearms Abdie possessed in the SnapChat videos were real based on their appearance. The
+afﬁdavit also noted that Abdie was an active member of the Franklin Field gang, had been active
+in gang violence and ﬁrearm activities, and on February 14, 2017, had posted "a video of himself
+
+in a rival gang's territory" on SnapChat, minutes after which there was a shooting in that area.^
+
+Shortly after the shooting, Abdie posted a video on SnapChat alluding to the shooting. Further,
+on February 17,2017, ofﬁcers believed Abdie had a gun when he exited 1 Ames Street and
+
+entered a car. When ofﬁcers tried to stop the vehicle, it escaped at a high rate of speed. The
+afﬁdavit added that Abdie was neither licensed to carry a ﬁrearm nor old enough to do so.
+
+Prior to the search, Abdie was subject to several Field Interrogation Observation ("FIG")
+
+interactions with the police, in which he came into contact with the police. The police
+
+documented these encounters in FIG Reports.'^ In none of those interactions were ﬁrearms seized
+from Abdie. Abdie had also posted numerous videos showing him in possession of ﬁrearms, but
+
+none  had  been  recovered  from  him.  Ball  did  not  include  these  facts  in  the  search  warrant
+
+a f ﬁ d a v i t .
+
+The search warrant was executed on March 2,2017. The warrant and supporting
+
+afﬁdavit were submitted into evidence. Ball took part in the execution of the warrant. During
+the search, ofﬁcers recovered a ﬁrearm and found narcotics throughout the apartment. They
+
+3 As part of his claim for a Franks/Amral hearing, Abdie claims that the afﬁdavit described this shooting as
+"conﬁrmed" but that police reports did not yield ballistics or evidence of it. Abdie, however, submitted no evidence
+on this point. The Court thus does not address it.
+
+4 See, e.g.. Commonwealth v. Warren. 475 Mass. 530, 532 n. 5 (2016) (citation omitted) ("'A "ﬁeld interrogation
+observation" (FIO) has been described as an interaction in which a police ofﬁcer identiﬁes an individual and ﬁnds
+out that person's business for being in a particular area.' FIOs are deemed consensual encounters because the
+individual approached remains free to terminate the conversation at will").
+
+6
+
+A42found ammunition and marijuana in what they understood to be Yusuf s bedroom. Yusuf and
+
+Abdie  were  arrested  at  the  scene.  The  search  warrant  did  not  seek  to  seize  the  curtains  in Abdie's
+
+bedroom, and they were not seized. Photographs were taken during the search, but were not
+
+listed  on  the  search  warrant  return.
+
+Sergeant Detective John Broderick testiﬁed. I fully credit his testimony. Broderick has
+
+25 years of experience with the Boston Police Department. He was part of the team that
+executed the search warrant at the Apartment on March 2, 2017. There were ﬁve to eight people
+in the apartment, including Abdie and Yusuf. Broderick showed the warrant to the parents of
+Abdie and Yusuf and explained what the ofﬁcers were doing. He then read all of the occupants,
+who had been gathered in the living room, their Miranda rights from a Miranda card, reading the
+
+warnings line by line. Yusuf and Abdie were present while he did so. Neither made any
+statements. Broderick was not present at the booking of Abdie and Yusuf. Broderick did not
+think Abdie's demeanor was confrontational, although Abdie was upset. Yusuf was calm and
+
+cooperative.
+
+Detective Stephen Ridge testiﬁed. I fully credit his testimony. Ridge has been a Boston
+Police Ofﬁcer for 25 years, 16 of them as a detective. On March 2, 2017, he was present during
+the booking of Yusuf and Abdie. They were booked at the same time. Each was searched and
+asked booking questions. During that process, Abdie told the booking ofﬁcer not to charge
+
+Yusuf with ammunition because "it was mine." Abdie also said he was glad the police only
+found one gun, and glad that "I got that sh-t out of there." These statements were unprompted
+
+by any questions. Ridge described Abdie's demeanor as gentlemanly when he claimed the
+ammunition was his, but "fresh" when he claimed that the police failed to seize more weapons.
+
+7
+
+A43The defense called Daniel Loper. Loper is a consultant in digital forensics. In that role,
+
+he analyzes computers, laptops, and cellphones for digital content. He has conducted
+
+investigations involving SnapChat for over 3 to 4 years and was familiar with SnapChat's
+
+security settings. He testiﬁed that a user can post videos on SnapChat and select the "friends"
+who are permitted to see it, or post the video on the "My Story" section, which he claimed would
+
+automatically delete after 24 hours. He added that the "My Story" settings can limit access to
+videos to a select number of "friends," but that if a "friend" could view the video, that friend had
+
+access  to  it.
+
+1 .  S t a n d i n g
+
+C O N C L U S I O N S  O F  L A W
+
+Yusuf is charged with the possession of drugs and ammunition. For possessory offenses,
+
+a charged defendant has automatic standing to challenge the seizure. Commonwealth v.
+
+Amendola. 406 Mass. 592, 601 (1990) ("[w]hen a defendant is charged with a crime in which
+
+possession of the seized evidence at the time of the contested search is an essential element of
+
+guilt, the defendant shall be deemed to have standing to contest the legality of the search and the
+seizure of that evidence"); Commonwealth v. Frazier. 410 Mass. 235, 243 (1991) ("[t]he
+
+dispositive issue in determining whether a defendant has automatic standing is whether
+
+'possession of the seized evidence at the time of the contested search is an essential element of
+
+guilt'"). In addition, however, such a party must allege a reasonable expectation of privacy.
+Commonwealth v. Mubdi. 456 Mass. 385, 391 (2010), citing Frazier. 410 Mass. at 244 n.3 ("the
+
+question of standing remains separate from the question of reasonable expectation of privacy").
+"Where the defendant has automatic standing, the defendant need not show that he has a
+
+reasonable expectation of privacy in the place searched," just "that someone had a reasonable
+
+8
+
+A44expectation of privacy in the place searched, because only then would probable cause, reasonable
+
+suspicion, or consent be required to justify the search." Mubdi. 456 Mass. at 392-93 (citations
+
+omitted) (emphasis added).
+
+Since the evidence is that Yusuf and Abdie lived in the same address, and that the
+
+ammunition with which Yusuf is charged was claimed by Abdie at booking as his own, Yusuf has
+
+standing to join in Abdie's motion to suppress. Commonwealth v. Lawson. 79 Mass. App. Ct.
+322, 326 (2011)) (defendant may assert the constitutional rights of someone involved with his
+
+allegedly criminal conduct), overruled in part on other grounds. Commonwealth v. Campbell.
+475 Mass. 611, 617 n.9 (2016).
+
+2 .  F r a n k s / A m r a l
+
+Abdie is not entitled to a hearing under either Franks v. Delaware. 438 U.S. 154 (1978) or
+
+Commonwealth v. Amral. 407 Mass. 511, 522-23 (1990).
+
+Under  Franks.
+
+where the defendant makes a substantial preliminary showing that a false statement
+knowingly and intentionally, or with reckless disregard for the truth, was included by the
+afﬁant in the warrant afﬁdavit, and if the allegedly false statement is necessary to the
+ﬁnding of probable cause, the Fourth Amendment requires that a hearing be held at the
+defendant's request. In the event that at that hearing the allegation of perjury or reckless
+disregard is established by the defendant by a preponderance of the evidence, and, with
+the afﬁdavit's false material set to one side, the afﬁdavit's remaining content is
+insufﬁcient to establish probable cause, the search warrant must be voided and the fruits
+of the search excluded to the same extent as if probable cause was lacking on the face of
+the  afﬁdavit.
+
+438 U.S. at 155-156. "Thus, judicial inquiry into the veracity of the underlying facts contained
+
+in  a  search  warrant  afﬁdavit  is  limited  to  whether  the  afﬁdavit  did  in  fact  contain  misstatements
+
+by the afﬁant and whether the misstatements were made intentionally or with reckless disregard
+for the truth." Amral. 407 Mass. at 520 (citation omitted).
+
+Under  Amral.
+
+A45the Supreme Judicial Court held that a defendant, under a less stringent test than Franks,
+may be entitled to an m camera hearing to determine whether he or she must receive a
+Franks hearing. The court held "that the public interest in deterring police misconduct
+requires the trial judge to exercise his or her discretion to order an in camera hearing
+where the defendant by afﬁdavit asserts facts which cast a reasonable doubt on the
+veracity of material representations made by the afﬁant concerning a conﬁdential
+informant.
+
+Commonwealth v. DeMatos. 77 Mass. App. Ct. 727, 733-34 (2010). Material omissions of fact,
+
+as opposed to afﬁrmative misstatements, may also justify an Amral hearing. Commonwealth v.
+
+Ramos, 72 Mass. App. Ct. 773, 778 (2008).
+
+In this case, the defendant here has not satisﬁed his substantial preliminary showing that
+
+the afﬁdavit contains any false statement, misstatement or material omission that were the result
+of perjury or recklessness, nor has he shown any facts which cast a reasonable doubt on the
+
+veracity of the material representations that were made in the afﬁdavit. Abdie's claim that the
+police misled the magistrate by not disclosing the FIOs showing that Abdie was not in possession
+of ﬁrearms on prior occasions is not a material omission. The fact that a suspect has not
+
+previously been found to be committing a crime, here illegal possession of ﬁrearms, would rarely
+be necessary to include in an afﬁdavit to satisfy the Franks or Amral standards, and certainly was
+not necessary in this case. Commonwealth v. Luce, 34 Mass. App. Ct. 105, 111 (1993) ("An
+afﬁant who sets out information adding up to probable cause to make a search is not bound to
+
+recite investigative efforts that did not pan out"). Indeed, the fact that the police had failed to
+
+ﬁnd Abdie in personal possession of ﬁrearms in the past bolstered the conclusion that he was
+
+hiding them somewhere, and made more likely, not less likely, that they would be found in his
+residence. The facts regarding the previous FIOs also showed that Abdie was subject to frequent
+
+contact with the police and thus had reason to conceal the guns that he clearly possessed on the
+
+SnapChat videos somewhere other than on his person, such as within his residence. In short, the
+
+1 0
+
+A46omission of the FIO facts simply did not undermine Bail's conclusion that Abdie was keeping
+
+guns in his bedroom, but rather enhanced that conclusion.
+
+To the extent that Abdie claims there is a need for a Franks or Amral hearing on the
+
+ground that Ball's assertion that the ﬁrearms he was ﬁlmed with were real was somehow false,
+the Court ﬁnds that claim meritless. Ball was highly experienced with ﬁrearms and had a good
+faith basis for concluding that the guns he had seen in the videos were not replicas, including that
+in the SnapChat videos, Abdie loaded ﬁrearms, that they appeared real, and that Abdie taunted
+rival gangs, all of which made it likely that Abdie was handling actual weapons. Further, Abdie
+has adduced no facts suggesting that replicas played any role in this case - and only a real
+
+ﬁrearm, and no replicas, were seized during the search itself.
+
+3.  Suppression  of  Search
+
+A.  Bodv-Wom  Camera  Use  and  Preservation
+Abdie claims that his rights to privacy were violated when ofﬁcers responding to his
+
+home wore a body-worn camera and did not receive permission from anyone in the Apartment to
+do so. He also argues that the Boston Police's preservation and use of that footage also violated
+
+his rights.
+
+Abdie cites to no case that supports his claim that a police ofﬁcer wearing a body camera
+
+during a visit to his home ten days prior to the warrant violated his rights. Even if there were
+some right to notice and consent to such recording, it would seem inapplicable here. The police
+
+were called to the Apartment for a domestic disturbance and encountered a chaotic scene. There
+
+was no reasonable opportunity for, or any rational reason to require, the police to halt their
+
+efforts to control what could have been a violent situation by seeking and obtaining consent -
+
+presumably from all of the angry parties - to permit recording. One of the purposes of the body-
+
+1 1
+
+A47worn camera is to ensure that police act in accordance with the law under tense circumstances
+like these; the law encourages, and does not prohibit, its use here.®
+
+Abdie's claim that the police had no right to preserve the footage is also unsupported by
+
+any law on point. The police did not exceed the scope of their purpose while they were inside
+the Apartment - they were properly present in the home and photographed only what they saw in
+
+fulﬁlling their duties. Abdie relies on Commonwealth v. Balicki. 436 Mass. 1 (2002) in support
+of his claims, but the situation here is different from that at issue in Balicki. In that case, the
+
+government exceeded the scope of a warrant by inspecting items in every room of a residence,
+all the while photographing and videotaping the items:
+
+While such a search would have been improper even without the use of the video
+and still cameras, their use not only documented the offending nature of the
+search, it also contributed to its intrusiveness. It is one thing to be present in a
+home carrying out the directives of a warrant, and of necessity being in a position
+cursorily to notice many of its contents. It is quite another to inspect the contents
+of a home and to create a permanent record of it for inspection by police,
+prosecutors, expert witnesses, and others at any time in the future. This record can
+be played and replayed as many times as necessary or desired, and the images can
+be focused or enlarged to show each detail of every item in that citizen's home.
+The use of videotape and photographs in this case goes far beyond the limited
+photographic preservation of the condition of a search scene (to protect the police
+from allegations of damage), or the photographic preservation of evidence, in situ,
+that the police otherwise have the right to seize pursuant to a warrant or any
+exception thereto. Such limited intrusions are not offensive to the privacy interests
+protected by art. 14. This search, and the use of the videotape and photographs to
+document  it,  was.
+
+We do not agree with the Commonwealth that the ofﬁcers acted properly because
+they videotaped and photographed only that which was in plain view. The fact
+that the ofﬁcers seized certain items pursuant to the plain view doctrine does not
+mean that the Commonwealth can extend that rationale to support a general
+
+5 Yusuf cited to the Boston Police Department's policy governing the use of body-worn cameras, but did not
+produce this policy in evidence. Even were the Court to take judicial notice of it, it would not aid the defendants'
+claims. The policy does not require ofﬁcers to obtain consent to record using the devices in exigent circumstances.
+The Court ﬁnds that the circumstances within the Apartment on February 10 were exigent. Brigham City. Utah
+V. Stuart. 547 U.S. 398,403-06 (2006) ("One exigency obviating the requirement of a warrant is the need to assist
+persons who are seriously injured or threatened with such injury... The role of a peace ofﬁcer includes preventing
+violence and restoring order, not simply rendering ﬁrst aid to casualties").
+
+1 2
+
+A48exploratory search of the home, photographing or videotaping anything they
+might ﬁnd to be interesting or suspicious.
+
+Balicki. 436 Mass. at 11-13 (citations, footnotes omitted). In the absence of further guidance
+from the Appeals or Supreme Judicial Courts, the police properly took the video, retained it and
+used it in the subsequent investigation.
+
+B.  SnapChat  Access  and  Preservation
+Abdie argues that he has an expectation of privacy in his SnapChat account, without
+
+which he cannot show that a search even occurred. Under these facts, he did not have an
+
+expectation of privacy.
+
+"For a search to have taken place, the defendant must have had a subjective expectation
+
+of privacy, and that expectation must have been one that society recognizes as objectively
+reasonable." Commonwealth v. Pina. 406 Mass. 540, 544 (1990), citing Katz v. United States.
+389 U.S. 347, 360 (1967) (Harlan, J., concurring)). In the abstract, the question as to whether
+and to what extent a user of a social media account has a reasonable expectation of privacy poses
+difﬁcult questions in light of the fact that the communications are maintained by a third party,
+
+and not the user himself or herself. Compare United States v. Miller. 425 U.S. 435,443 (1976)
+
+(bank customer had no reasonable expectation of privacy over certain banking records held by a
+third party, the bank) Smith v. Marvland. 442 U.S. 735, 741-42 (1979) (telephone subscriber had
+no reasonable expectation of privacy over numbers dialed using a telephone and communicated
+
+to the telephone companvl with Carpenter v. United States. 138 S. Ct. 2206 (2018) (an individual
+maintains an expectation of privacy in cell-cite location records maintained by a third party, the
+cell phone service carrier). Yet even assuming a SnapChat user has an expectation of privacy if,
+as was the case here, he or she limits access to his or her account, Abdie's claim nonetheless fails
+
+on  these  facts.
+
+1 3
+
+A49At the outset, Abdie argues he excluded people from having access to his SnapChat
+
+account whom he did not "know personally," but submitted no evidence to support this claim.
+There is thus no basis to conclude that he, in fact, had a subjective expectation of privacy of that
+account and, accordingly, that any "search" occurred. S^, ^., Commonwealth v. Netto. 438
+Mass. 686, 697 (2003) (citations omitted) ("the burden is initially on the defendants to
+demonstrate that they had a reasonable expectation of privacy .. .It is not the Commonwealth's
+burden to show that there was no such reasonable expectation of privacy at that time. Thus, if the
+
+record  is  unclear  ..  .it  is  the  defendants—^not  the  Commonwealth—^who  have  failed  to  meet  their
+
+burden of proof, as they are the ones who must show that a 'search' in the constitutional sense
+
+occurred").
+
+Leaving this concern aside, Abdie's claim would fail on other factual grounds. In this
+
+case, the government contends that Abdie gave them consent to access his account. The
+
+government can obtain consent to receive otherwise private communications by using informers
+or undercover posing as criminal confederates of a suspect. S^, ^., Hoffa v. United States. 385
+
+U.S. 293, 302-03 (1966) (no Fourth Amendment right violated where government used a
+
+cooperating witness who reported incriminating statements made by the petitioner; cooperator
+was present "with petitioner's consent," and petitioner took the risk that the cooperator would not
+
+maintain his conﬁdence); Lewis v United States. 385 U.S. 206,208 (1966) ("[I]n the detection of
+
+many types of crime, the Government is entitled to use decoys and to conceal the identity of its
+
+agents"). In contrast, the government generally cannot validly obtain consent to access private
+locations where that consent is based on the government agent's posing as a law-abiding private
+
+citizen; for instance, if the police gain access to a house while posing as a gas company
+
+employee searching for a gas leak, the consent is unlawful. S^, e^.. United States v. Giraldo.
+
+1 4
+
+A50743 R Supp. 152, 153 (E.D.N.Y.1990) (invalid consent to enter residence where a police ofﬁcer
+
+pretended to work for the gas company and told the defendant she was checking for a gas leak).
+In this case. Ball used neither of these approaches; he did not pose as a criminal or as a person
+with some legitimate claim to access, like a SnapChat service representative, but instead used a
+
+false name and emoji image, plainly concealing his true identity. Abdie did not grant access to
+
+his SnapChat because he believed Ball was a criminal confederate or a service-provider of some
+
+type, he provided access to a complete stranger.^ Abdie thus assumed the risk that the user might
+be friend or foe. The Court infers the reason for this; at least some of the videos do not appear to
+be communications aimed at friends but threats targeted at rival gangs, warning them that Abdie
+was armed and dangerous and was actively encroaching on their "territory," and that Abdie
+
+granted access to his SnapChat account to unknown persons because he wanted to disseminate
+his threatening message to rival gang members who had reason to conceal their identities from
+
+him. Under these facts, Abdie did not have a subjective or a reasonable expectation of privacy in
+
+the SnapChat videos simply because they were not private at all. Abdie did not take "normal
+
+precautions to protect his privacy." Pma, 406 Mass. at 545. This case is thus similar to
+Commonwealth v. D'Onofrio. 396 Mass. 711 (1986). There the Supreme Judicial Court found
+
+that the police did not violate the Fourth Amendment by misrepresenting their identities in order
+
+to inﬁltrate private club where the club did not enforce a policy to exclude the public:
+
+To establish a reasonable expectation of privacy, it is not enough for the
+defendants to show that they had an unenforced "policy" of restricting access to
+
+6 Since the police had consent to receive the SnapChat communications, their warrantless monitoring of the
+SnapChat account did not violate federal or state wiretap law. See 18 U.S.C. §2511(c) ("It shall not be unlawful
+under this chapter for a person acting under color of law to intercept a wire, oral, or electronic communication,
+where such person is a party to the communication or one of the parties to the communication has given prior
+consent to such interception"); G.L. c. 272, §99(B)(4) ("The term 'interception' means to secretly hear, secretly
+record, or aid another to secretly hear or secretly record the contents of any wire or oral communication through the
+use of any intercepting device by any person other than a person given prior authority by all parties to such
+communication").
+
+1 5
+
+A51[the club] to members and guests of members. In Commonwealth v. Simmons.
+392 Mass. 45, 50 (1984), we noted the relevancy to "the expectation of privacy
+calculus" of "whether the defendant 'took normal precautions to maintain his
+privacy—^that is, precautions customarily taken by those seeking privacy.'..." We
+said in Commonwealth v. Cadoret 388 Mass. [148,] at 151 [(1983)], that
+"[f]ailure to enforce limitations on admittance would warrant the conclusion that
+the persons operating the club had no reasonable expectation of privacy." That
+conclusion is required in the absence of reasonable enforcement efforts.... In the
+absence  of  evidence  that  the  defendants  made  reasonable  efforts  to  corroborate  the
+claims of guest status made by persons seeking admission to the club, the
+evidence fails to show that the public was not freely admitted there. If the public
+was freely admitted, the defendants did not have a reasonable expectation of
+privacy, and [the ofﬁcer's] entrance into the club and observations of things in
+plain view did not violate the defendants' Fourth Amendment rights.
+
+D'Onofrio. 396 Mass. at 716-17 (citations omitted). That Abdie accepted a request from a user
+who was unknown to him undercuts his argument that he relied on the safeguards that he put in
+
+place to protect his privacy as it pertains to his SnapChat posts. S^, ^., Everett v. State of
+Delaware. 186 A.3d 1224,1236 (Del. 2018) ("[T]he Fourth Amendment does not guard against
+
+the risk that the person from whom one accepts a 'friend request' and to whom one voluntar[ily]
+
+disclosed such information might turn out to be an undercover ofﬁcer or a 'false friend'");
+
+United States v. Gatson. No. 13-705, 2014 WL 7182275, at *22 (D.N.J. 2014) (no search
+
+warrant required for police ofﬁcer to use undercover account to become Instagram "friends" with
+
+defendant); United States v. Mereeildo. 883 F. Supp. 2d 523, 525-526 (S.D.N.Y. 2012) (social
+media user's "legitimate expectation of privacy ended when he disseminated posts to his
+
+'friends' because those 'friends' were free to use the information however they wanted -
+
+including sharing it with the Government"). Even had Abdie subjectively believed that his
+SnapChat communications were private, a conclusion belied by his apparent intent for his videos
+to broadcast threats to others not closely associated with him, that belief is not reasonable under
+
+these circumstances where he did not enforce a privacy policy and mistakenly relied upon the
+
+trustworthiness of a SnapChat user whose identity he did not know. S^ Pina. 406 Mass. at 544-
+
+1 6
+
+A52545; D'Onofrio. 396 Mass. at 716-718; also Hoffa. 385 U.S. at 303, quoting Lopez v. United
+States. 373 U.S. 427,465 (1963) (Brennan, J., dissenting) ("The risk of being... betrayed by an
+informer or deceived as to the identity of one with whom one deals is probably inherent in the
+conditions of human society" and "is the kind of risk we necessarily assume whenever we
+
+speak"). There may be a case in which a social media user's expectation of privacy in his or her
+communications to others is reasonable under other factual circumstances, but here the facts do
+
+not support a conclusion that a search took place in the meaning of the Fourth Amendment and
+
+art.  14.  Pina,  406  Mass.  at  544.
+
+Abdie's claim that the police improperly recorded the SnapChat videos that were posted
+on his SnapChat account fails for the same reasons as his complaint that the body-wom camera
+
+footage should not have been preserved - that no law prohibited the police from taking the video
+and preserving it thereafter. See Balicki. 436 Mass. at 13 n. 13 ("We need not decide in this case
+
+whether the videotaping and photographing of a proper search would be unconstitutional"). Nor
+
+did the recording exceed the scope of Abdie's consent. "A search that is based on consent may
+
+not exceed the scope of that consent. The standard for measuring the scope of a suspect's
+
+consent under the Fourth Amendment is that of 'objective' reasonableness—^what would the
+
+typical reasonable person have understood by the exchange between the ofﬁcer and the suspect?"
+Commonwealth v. Ortiz. 478 Mass. 820, 824 (2018) (citations, internal punctuation omitted).
+
+Under this standard, "the focus is solely on what a typical reasonable person would understand
+
+the scope of the consent to be, based on the words spoken and the context in which they are
+
+spoken, not on what a police ofﬁcer may understand." Id, 478 Mass. at 824. A reasonable
+person in Abdie's position would have understood that giving access to the SnapChat account
+allowed viewers to use a number of readily-available techniques to preserve those videos.
+
+1 7
+
+A53Because the facts from SnapChat and the body camera were properly included in the
+
+search warrant afﬁdavit, the information from those sources is properly considered in
+
+determining if the afﬁdavit establishes probable cause.
+
+An inquiry into the sufﬁciency of a search warrant application always begins and ends
+with the "four comers of the afﬁdavit." Commonwealth v. Barbosa. 92 Mass. App. Ct. 1114
+
+(2017) (Rule 1:28 decision), citing Commonwealth v. O'Dav. 440 Mass. 296, 297 (2003). When
+reviewing a warrant for probable cause, a judge must determine whether, based on the afﬁdavit
+in its entirety, the magistrate had a substantial basis to conclude that a crime had been committed,
+that the items described in the warrant were related to the criminal activity, and that those items
+would probably be located in the place to be searched. Commonwealth v. O'Dav. 440 Mass.
+
+296, 298 (2003). In addition,
+
+[t]his probable cause inquiry requires a "nexus between the items to be seized and
+the place to be searched." When the place to be searched is a residence, "there
+must be speciﬁc information in the afﬁdavit, and reasonable inferences a
+magistrate may draw, to provide 'a sufﬁcient nexus between the defendant's drug-
+selling activity and [her] residence to establish probable cause to search the
+residence.'" To satisfy this "nexus" requirement, and thus the probable cause
+standard, the afﬁdavit "must provide a substantial basis for concluding that
+evidence connected to the crime will be found on the speciﬁed premises." ...
+[EJven "[a] single observation of a suspect leaving [her] home for a dmg deal may
+also support an inference that drugs will be found in the home where it is coupled
+with  other  information."
+
+Commonwealth v. Tania. 463 Mass. 721, 725-26 (2012) (citations omitted).
+
+Here the afﬁdavit established probable cause to believe that Abdie had a gun inside the
+
+Apartment. The SnapChat video was taken within 72 hours of the time Ball applied for the
+search warrant. It clearly depicts Abdie in his bedroom in the Apartment in possession of a
+ﬁrearm. Abdie had no legal authority to possess a ﬁrearm. The search warrant afﬁdavit thus
+established probable cause to believe that Abdie was unlawfully in possession of a ﬁrearm, and
+
+1 8
+
+A54that the ﬁrearm and other relevant evidence sought by the warrant could be found in the
+
+Apartment.
+
+C. Photographs of the Search
+The plain view argument as framed by Abdie - that if the police photograph anything
+
+they expect to see in a search location, they have conducted a search for which they need a
+warrant - assumes that such photographs require a warrant. The Supreme Judicial Court has not
+decided whether the videotaping and photographing of a proper search without court
+
+authorization is unconstitutional. Balicki. 436 Mass. at 13 n. 13 ("We need not decide in this
+case whether the videotaping and photographing of a proper search would be unconstitutional).
+There are no facts here that suggest that photography of the scene during the search was
+
+inappropriate or that it examined areas in excess of those within the scope of the warrant; indeed,
+the defendants introduced none of the photographs at the hearing and presented no speciﬁc
+
+objection beyond the mere fact that images were taken. There is no basis to suppress the
+photographs.
+
+4 .  M i r a n d a 
+
+i s s u e
+
+Abdie's claim that his statements made at booking should be suppressed as the fhiits of
+
+the prior illegality mentioned above is meritless.
+
+Abdie's Miranda claim is also meritless. Miranda has no application to volunteered
+statements made by a defendant in custody which are not the product of interrogation or its
+functional equivalent. Statements which are '"blurted out,' ix., made spontaneously, unsolicited
+and unprovoked by anything done or said by the police ... are not the product of custodial
+
+interrogation and are admissible even if Miranda warnings have not been given."
+Commonwealth v. Adams. 66 Mass. App. Ct. 1111 (2006); also Commonwealth v. Bvrd. 52
+
+1 9
+
+A55Mass. App. Ct. 642, 649 (2001) ("Miranda safeguards were not intended to prevent a defendant
+from volunteering incriminating information"). Abdie was advised of his Miranda rights at the
+
+Apartment, before booking, and in the normal course would have been re-advised of those rights
+during booking. Under these facts, the Court ﬁnds beyond a reasonable doubt that Abdie
+voluntarily, knowingly, and intelligently waived his Miranda rights by speaking. Commonwealth
+V. Edwards. 420 Mass. 666, 669-670 (1995). The voluntariness of a Miranda waiver "turns on
+
+the 'totality of the circumstances,' including promises or other inducements, conduct of the
+
+defendant, the defendant's age, education, intelligence and emotional stability, experience with
+and in the criminal justice system, physical and mental condition, the initiator of the discussion
+of a deal or leniency (whether the defendant or the police), and the details of the interrogation,
+
+including the recitation of Miranda warnings." Commonwealth v. Mandile. 397 Mass. 410, 413
+(1986). The test is "essentially the same as that used for determining the voluntariness of
+statements under the due process clause of the Fourteenth Amendment to the United States
+
+Constitution." Edwards. 420 Mass. at 670. No promises or threats were made to Abdie. He was
+
+an adult, had experience with the criminal justice system, and was physically unimpaired. He
+
+spoke to try to exonerate his brother or to taunt the police, not to curry favor with them. His
+statements were voluntary beyond any reasonable doubt. Indeed, Abdie's taunting of the police -
+
+that they failed to ﬁnd more guns - shows that Abdie was freely speaking his mind, not speaking
+
+as the result of any form of compulsion.
+
+For the foregoing reasons, defendants' motion to suppress is DENIED.
+
+O R D E R
+
+2 0
+
+A56s o  O R D E R E D .
+
+Date: September 24,2018
+
+Justice of the Superior Court
+
+2 1
+
+A57UNITED STATES CONSTITUTION
+
+Fourth Amendment
+
+The right of the people to be secure in their persons, houses, papers, and
+effects, against unreasonable searches and seizures, shall not be violat-
+ed, and no Warrants shall issue, but upon probable cause, supported by
+Oath or affirmation, and particularly describing the place to be
+searched, and the persons or things to be seized.
+
+MASSACHUSETTS DECLARATION OF RIGHTS
+
+Article 14
+
+Every subject has a right to be secure from all unreasonable searches,
+and seizures, of his person, his houses, his papers, and all his posses-
+sions. All warrants, therefore, are contrary to this right, if the cause or
+foundation of them be not previously supported by oath or affirmation;
+and if the order in the warrant to a civil officer, to make search in sus-
+pected places, or to arrest one or more suspected persons, or to seize
+their property, be not accompanied with a special designation of the
+persons or objects of search, arrest, or seizure: and no warrant ought to
+be issued but in cases, and with the formalities prescribed by the laws.
+
+A58
+
+Certificate of Compliance
+
+I hereby certify that this brief complies with the rules of court
+that pertain to the filing of briefs, including, but not limited to: Rule
+16(a)(13) (addendum); Rule 16(e) (references to the record); Rule 18
+(appendix to the briefs); Rule 20 (form and length of briefs, appen-
+dices, and other documents); and Rule 21 (redaction). The brief is set
+in 14-point Athelas and contains 7,558 non-excluded words, as de-
+termined through use of the “Word Count” feature in Microsoft
+Word 2010.
+
+/s/ Patrick Levin
+Patrick Levin
+
+Certificate of Service
+
+I hereby certify that in the matter of Commonwealth vs. Ab-
+dirahman Yusuf, Supreme Judicial Court No. SJC-12989, I have to-
+day served the Amended Brief of Defendant-Appellant Abdirahman
+Yusuf on the Commonwealth by directing a copy through the elec-
+tronic filing service provider to:
+Elisabeth Martino
+Suffolk County DA’s Office
+One Bulfinch Place
+Boston, MA 02114
+(617) 619-4082
+elisabeth.martino@state.ma.us
+
+/s/ Patrick Levin
+Patrick Levin, BBO #682927
+COMMITTEE FOR PUBLIC COUNSEL SERVICES
+Public Defender Division
+44 Bromfield Street, Suite 301
+Boston, Massachusetts 02108
+(617) 482-6212
+plevin@publiccounsel.net
+
+July 31, 2020
+
+59
+
+
